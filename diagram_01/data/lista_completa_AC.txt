@@ -1,0 +1,848 @@
+id	Id_1	Elemento1	Id_2	elemento2
+1	i1	Alumnas y profesora de corte y confección en Barrillos de Curueño	p1	Adelina Díez Robles
+2	i2	Nieves Diez y Julia 	p1	Adelina Díez Robles
+3	i3	Nieves Diez y Julia junto al gallinero de Barrio de Nuestra Señora	p1	Adelina Díez Robles
+4	i4	Julia y Jesús el día de su boda junto a familiares y amigos	p1	Adelina Díez Robles
+5	i5	Nieves Diez con un grupo de amigos 	p1	Adelina Díez Robles
+6	i6	Retrato de Nati de monja en Vich	p1	Adelina Díez Robles
+7	i7	Nieves Diez con su amiga Julia en Barrillos de Curueño	p1	Adelina Díez Robles
+8	i8	María Teresa y Luciano Castro en el colegio de Barrillos de Curueño	p1	Adelina Díez Robles
+9	i9	Retrato de estudio de Luciano Diez vestido de militar en Coruña	p1	Adelina Díez Robles
+10	i10	Retrato de estudio de Luciano Diez y sus compañeros Félix y Pablo vestidos de militares en Coruña antes de embarcar para África	p1	Adelina Díez Robles
+11	i11	La madre de Adelina Diez	p1	Adelina Díez Robles
+12	i12	Retrato de estudio de Felipe Diez en Argentina	p1	Adelina Díez Robles
+13	i13	Retrato de estudio de Luciano Diez y Baudilio dándose la mano	p1	Adelina Díez Robles
+14	i14	Retrato de boda de Adelina Diez y Asterio Castro con los padrinos en Barrillos de Curueño	p1	Adelina Díez Robles
+15	i15	Retrato de estudio de Nieves Diez en León	p1	Adelina Díez Robles
+16	i16	Retrato de estudio de Román Llamera en Coruña	p1	Adelina Díez Robles
+17	i17	Adelina Diez y Asterio Castro con unos amigos en el portal de su casa en Barrillos de Curueño	p1	Adelina Díez Robles
+18	i18	Esteban y Nieves Diez de luto en la escuela de Barrillos de Curueño	p1	Adelina Díez Robles
+19	i19	Retrato de estudio de Adelina Diez en León	p1	Adelina Díez Robles
+20	i20	Retrato de estudio de la familia Castro Diez en León	p1	Adelina Díez Robles
+21	i21	Retrato de Celestina Robles y Lucas Castro con sus hijos	p2	Mª Inés Lopez Castro
+22	i22	Retrato de Clemente Castro y Paz Arroyo con sus hijos en la huerta de la casa familiar de Barrillos de Curueño	p2	Mª Inés Lopez Castro
+23	i23	Retrato de estudio de Clemente Castro e Isidoro Castro vestidos de militares	p2	Mª Inés Lopez Castro
+24	i24	Cecilia Arroyo con sus tres nietas mayores en la huerta de la casa familiar de Barrillos de Curueño	p2	Mª Inés Lopez Castro
+25	i25	Retrato de estudio de José Arroyo 	p2	Mª Inés Lopez Castro
+26	i26	Retrato de estudio de Fidel Cascón	p2	Mª Inés Lopez Castro
+27	i27	Retrato de estudio de Paz Cascón	p2	Mª Inés Lopez Castro
+28	i28	Los hermanos López Castro en la huerta familiar de Barrillos de Curueño	p2	Mª Inés Lopez Castro
+29	i29	Inés López y su hermano en la huerta de la casa de los abuelos de Barrillos de Curueño	p2	Mª Inés Lopez Castro
+30	i30	Inés López de primera comunión en la huerta de la casa familiar en Barrillos de Curueño	p2	Mª Inés Lopez Castro
+31	i31	Fotografías de la familia de Inés López	p2	Mª Inés Lopez Castro
+32	i32	Retrato de estudio de José de la Puente y Custodia Castro con sus hijos Balbino, Longinos y Epifanio	p3	Isabel de la Puente
+33	i33	Retrato de boda de José González y Luzgérica Fernández	p3	Isabel de la Puente
+34	i34	Retrato de estudio de Luci y Balbino de la Puente en Argentina	p3	Isabel de la Puente
+35	i35	Retrato de José, hijo de la señora María 	p3	Isabel de la Puente
+36	i36	Retrato de Basilisa de la Puente	p3	Isabel de la Puente
+37	i37	Inocencio Castro con José de la Puente y Custodia Castro, los hijos de estos y la criada Jesusa.	p3	Isabel de la Puente
+28	i38	Retrato de estudio de Epifanio de la Puente y María Rodríguez y su hijo José Luis de la Puente en Argentina	p3	Isabel de la Puente
+39	i39	Recordatorio de comunión de Javier de la Puente en Argentina	p3	Isabel de la Puente
+40	i40	José Luis de la Puente en la escuela en Argentina	p3	Isabel de la Puente
+41	i41	Retrato de estudio de un militar	p3	Isabel de la Puente
+42	i42	Grupo de militares formando en Marruecos	p3	Isabel de la Puente
+43	i43	Fachada de una casa en Barrillos de Curueño	p3	Isabel de la Puente
+44	i44	Retrato de Luci de la Puente en Galicia	p3	Isabel de la Puente
+45	i45	Epifanio de la Puente y María Rodríguez y su hijo José Luis de la Puente subido en una llama en Argentina	p3	Isabel de la Puente
+46	i46	Valentín Diez en Barrillos de Curueño	p3	Isabel de la Puente
+47	i47	José Valbuena en Santa Colomba de Curueño	p3	Isabel de la Puente
+48	i48	Yolanda Manzano junto al taxi de Felipe en Barrillos de Curueño	p3	Isabel de la Puente
+49	i49	Epifanio y  Longinos de la Puente, Maximino y Valentín Diez junto a un grupo de socios en la inauguración de un negocio en Buenos Aires	p3	Isabel de la Puente
+50	i50	Retrato de estudio de una mujer sentada con un ramo en la mano	p3	Isabel de la Puente
+51	i51	Retrato de estudio de varios primos de Isabel de la Puente en Buenos Aires	p3	Isabel de la Puente
+52	i52	Retrato de estudio de una mujer de pie con un ramo en la mano en Buenos Aires	p3	Isabel de la Puente
+53	i53	Retrato de estudio de Teófilo Ayer y su hermano en Buenos Aires	p3	Isabel de la Puente
+54	i54	Yolanda de la Puente y Orencio Benavides el día de su boda junto a amigos y familiares en Barrillos de Curueño 	p3	Isabel de la Puente
+55	i55	Retrato de Lisandro sentado	p3	Isabel de la Puente
+56	i56	Retrato de estudio de Ángel Manzano y Secundina Robles	p3	Isabel de la Puente
+57	i57	Retrato de estudio de niño con uniforme y banderín en Argentina	p3	Isabel de la Puente
+58	i58	Lina González e Isabel de la Puente vestidas de pastoras en una pastorada en Barrillos de Curueño	p3	Isabel de la Puente
+59	i59	Retrato de estudio de Lina González	p3	Isabel de la Puente
+60	i60	Retrato de estudio de José Valbuena vestido de militar	p3	Isabel de la Puente
+61	i61	Sagrario y Santiago en Cacabelos	p3	Isabel de la Puente
+62	i62	 Retrato de estudio de Isabel de la Puente	p3	Isabel de la Puente
+63	i63	Retrato de Valentín Manzano	p3	Isabel de la Puente
+64	i64	Pilar Guerra  en la calle en Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+65	i65	Linos Gómez y Felicidad Getino con sus cuatro hijos en Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+66	i66	Araceli Gómez y Pilar Guerra junto a la presa en Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+67	i67	José Manzano subido a un palenque junto a unas amigas de León en la presa de Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+68	i68	Laurentina Getino y Tosa en la Plaza de las Palomas de León	p4	Mª Pilar Guerra Getino
+69	i69	Juan Guerra, Laurentina Getino y su hija Pilar Guerra en la plaza de las Palomas de León	p4	Mª Pilar Guerra Getino
+70	i70	El maestro junto a los alumnos en Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+71	i71	Isabel Puente y Valentín Manzano rodeados de jóvenes el día de su boda en Barrillos de Curueño	p4	Mª Pilar Guerra Getino
+72	i72	Fotografía de estudio de un militar en Lugo	p5	Montserrat Robles Castro 
+73	i73	Fotografía de estudio de Tomás Robles en Buenos Aires	p5	Montserrat Robles Castro 
+74	i74	Fotografía de boda de Pedro Robles y Fructosa Castro en Valladolid	p5	Montserrat Robles Castro 
+75	i75	 Fotografía de boda de Leonarda Robles y Aurelio Urraca en León	p5	Montserrat Robles Castro 
+76	i76	Fotografía de boda de Tomás Robles y Carmen en Alsasua	p5	Montserrat Robles Castro 
+77	i77	Fotografía de estudio de Antonio Robles vestido de militar	p5	Montserrat Robles Castro 
+78	i78	Fotografía de estudio de Tomás Robles en Buenos Aires	p5	Montserrat Robles Castro 
+79	i79	Fotografía de estudio de dos hombres en Buenos Aires 	p5	Montserrat Robles Castro 
+80	i80	Fotografía de estudio de dos hombres en Buenos Aires II	p5	Montserrat Robles Castro 
+81	i81	Fotografía de estudio de un hombre sentado en Huelva	p5	Montserrat Robles Castro 
+82	i82	Leonarda Robles con su cuñada Carmen y una amiga	p5	Montserrat Robles Castro 
+83	i83	Antonio Robles con Antonia y su hijo José María en Barcelona	p5	Montserrat Robles Castro 
+84	i84	Retrato de Dalmiro Robles de militar	p5	Montserrat Robles Castro 
+85	i85	Luis Robles con su hijo Luis en Barrillos de Curueño	p5	Montserrat Robles Castro 
+86	i86	Retrato de Aurelio Urraca con uniforme de Guardia Civil	p5	Montserrat Robles Castro 
+87	i87	Aurelio Urraca con uniforme de guardia civil con su hijo Miguel Ángel	p5	Montserrat Robles Castro 
+88	i88	Antonio Robles junto a dos compañeros vestidos de militares	p5	Montserrat Robles Castro 
+89	i89	Antonio Robles junto a tres compañeros militares	p5	Montserrat Robles Castro 
+90	i90	Dalmiro Robles de militar junto a un compañero en Valladolid	p5	Montserrat Robles Castro 
+91	i91	Fotografía poco significativa	p5	Montserrat Robles Castro 
+92	i92	Antonio Robles de militar en un paraje nevado	p5	Montserrat Robles Castro 
+93	i93	La abuela Cristeta Castro de Barrillos de Curueño	p5	Montserrat Robles Castro 
+94	i94	Retrato de estudio de Cecilio Robles con su hija Cayetana	p6	Rosalina Castro Robles 
+95	i95	Fotografía de estudio de la boda de Felipe Castro y Cayetana Robles en León	p6	Rosalina Castro Robles 
+96	i96	El maestro Roque de Castro rodeado por sus alumnos en Barrillos de Curueño	p7	Sabino de Castro Mirantes
+97	i97	Retrato de estudio de Roque de Castro y Teodora Castro	p7	Sabino de Castro Mirantes
+98	i98	Retrato de estudio de la familia Díez Llamera en Barcelona	p8	Meli Llamera Díez 
+99	i99	Retrato de estudio de la familia Díez Llamera en Barcelona II	p8	Meli Llamera Díez 
+100	i100	Retrato de estudio de Natividad Díez en León	p8	Meli Llamera Díez 
+101	i101	Retrato de estudio de la familia Díez Ferreras	p8	Meli Llamera Díez 
+102	i102	Retrato de estudio de la familia de Valentín Diez en Buenos Aires	p8	Meli Llamera Díez 
+103	i103	Pilar y Gelines Robles con el perro del fotógrafo Salustiano Robles (Tano) en Barrillos de Curueño 	p9	Roberto Menendez Trabanco y Pilar Robles García 
+104	i104	Pilar y Gelines Robles con unos primos delante de la casa familiar en Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+105	i105	Ángeles García su nieta Mabel Menéndez en la huerta familiar de Barrillos de Curueño 	p9	Roberto Menendez Trabanco y Pilar Robles García 
+106	i106	Retrato de Pilar Robles de primera comunión en Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+107	i107	Gelines Robles bañando a Mabel Menéndez en la calle en Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+108	i108	Retrato de estudio de Cruz Robles e Isabel Vales	p9	Roberto Menendez Trabanco y Pilar Robles García 
+109	i109	Roberto Fernández reteniendo un ternero en la entrada de La Cotada en Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+110	i110	Roberto Fernández junto a dos quintos el día de la talla en Santa Colomba de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+111	i111	Roberto Fernández posando a la entrada de Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+112	i112	Roberto Fernández en una Vespa en el camino entre Santa Colomba y Barrillos de Curueño	p9	Roberto Menendez Trabanco y Pilar Robles García 
+113	i113	Cantamisas de Joaquín en la iglesia de Devesa de Curueño	p10	Camino González Díez
+114	i114	Retrato de Capitolina Díez junta a una amiga	p10	Camino González Díez
+115	i115	Mozas de Devesa de Curueño	p10	Camino González Díez
+116	i116	Fiesta en Barrio de Nuestra Señora 	p10	Camino González Díez
+117	i117	Procesión de la Virgen de Fátima en Devesa de Curueño	p10	Camino González Díez
+118	i118	Procesión de la Virgen de Fátima con niñas vestidas de primera comunión en Devesa de Curueño	p10	Camino González Díez
+119	i119	Procesión en Devesa de Curueño	p10	Camino González Díez
+120	i120	Chicas sentadas en un trillo en la era de Devesa de Curueño 	p10	Camino González Díez
+121	i121	Fotografía para el libro de familia numerosa de la familia de Camino González en Devesa de Curueño	p10	Camino González Díez
+122	i122	Familia Robles González con sus nueve hijos en la casa familiar de Devesa de Curueño	p11	Daniel Robles López 
+123	i123	Licinio Robles y Humildad López en una boda	p11	Daniel Robles López 
+124	i124	Procesión de las fiestas de San Miguel en Devesa de Curueño	p11	Daniel Robles López 
+125	i125	Imagen del Corazón de Jesús llevado en andas en una procesión en Devesa de Curueño	p11	Daniel Robles López 
+126	i126	Humildad, Encarna y Enélida López junto a sus hijos en la huerta familiar de Devesa de Curueño	p11	Daniel Robles López 
+127	i127	 Antonio Robles el día de su primera comunión en Devesa del Curueño	p11	Daniel Robles López 
+128	i128	Licinio Robles y Humildad López junto a varios familiares en la huerta de Devesa del Curueño	p11	Daniel Robles López 
+129	i129	Humildad y Virinia López con su hija Milagros a las puertas de la iglesia de Devesa de Curueño	p11	Daniel Robles López 
+130	i130	Humildad López y sus amigas en la huerta familiar de Devesa de Curueño	p11	Daniel Robles López 
+131	i131	Tarjeta provisional de identidad de Humildad López González	p11	Daniel Robles López 
+132	i132	Niño pequeño sentado	p11	Daniel Robles López 
+133	i133	Fotografía para el libro de familia de Licinio Robles, Humildad López e hijos	p11	Daniel Robles López 
+134	i134	Antonio y Daniel Robles en la puerta de la escuela de Desvesa de Curueño	p11	Daniel Robles López 
+135	i135	Retrato de estudio de Humildad López González	p11	Daniel Robles López 
+136	i136	Foto de carné de Humildad López González	p11	Daniel Robles López 
+137	i137	Miguel y Jesús Robles delante de la puerta de la casa de Marcelino en Devesa de Curueño II	p11	Daniel Robles López 
+138	i138	Miguel y Jesús Robles delante de la puerta de la casa de Marcelino en Devesa de Curueño I	p11	Daniel Robles López 
+139	i139	Fotografías para carnet de identidad	p11	Daniel Robles López 
+140	i140	Fotografía para carnet de identidad	p11	Daniel Robles López 
+141	i141	Primera comunión de Robustiano Robles (hijo)	p11	Daniel Robles López 
+142	i142	Vecinos de Devesa de Curueño posando en la casa de la escuela	p11	Daniel Robles López 
+143	i143	Primera comunión de Jesús Robles en Devesa de Curueño	p11	Daniel Robles López 
+144	i144	Robustiano Robles (Tano) y Encarna en la huerta familiar 	p11	Daniel Robles López 
+145	i145	Licinio Robles y Humildad en la huerta familiar de Devesa de Curueño	p11	Daniel Robles López 
+146	i146	Robustiano Robles (Tano) y Encarna en el soto de Ambasaguas de Curueño	p11	Daniel Robles López 
+147	i147	Ludi y Angelina Viejo con varios niños y niñas en Devesa de Curueño	p12	Inmaculada Fernández Gago
+148	i148	Ismael Fernández junto a su familia en la celebración de la misa nueva en Devesa de Curueño	p12	Inmaculada Fernández Gago
+149	i149	Guillermo Viejo con la familia en la era durante la trilla en Devesa de Curueño I	p12	Inmaculada Fernández Gago
+150	i150	El tío Inocencio con Lucio y Graciano Viejo en Devesa de Curueño	p12	Inmaculada Fernández Gago
+151	i151	Familia Fernández Gago en el corral de la casa familiar de Devesa de Curueño 	p12	Inmaculada Fernández Gago
+152	i152	Graciano y Brígida Viejo en Matallana de Torío	p12	Inmaculada Fernández Gago
+153	i153	Brígida, Alicia y Lucio Viejo subidos en un carro en el corral de la casa familiar de Devesa de Curueño	p12	Inmaculada Fernández Gago
+154	i154	Brígida y Lucio Viejo junto a un carro en el corral de la casa familiar de Devesa de Curueño	p12	Inmaculada Fernández Gago
+155	i155	Angelina Viejo,  monja enfermera en una clínica en Francia	p12	Inmaculada Fernández Gago
+156	i156	Retrato de Luis Fernández vestido de cobrador en Rentería	p12	Inmaculada Fernández Gago
+157	i157	Angelina Viejo de monja subida en el trillo en la era de Devesa de Curueño	p12	Inmaculada Fernández Gago
+158	i158	Guillermo Viejo con la familia en la era durante la trilla en Devesa de Curueño II	p12	Inmaculada Fernández Gago
+159	i159	Fotografía de identificación del sacerdote Ambrosio González	p12	Inmaculada Fernández Gago
+160	i160	Retrato de estudio de Yuki López	p12	Inmaculada Fernández Gago
+161	i161	Guillermo viejo trabajando el campo en Devesa de Curueño 	p12	Inmaculada Fernández Gago
+162	i162	Modesta Gago, Brígida Gago e Inmaculada Fernández en una huerta.	p12	Inmaculada Fernández Gago
+163	i163	Inmaculada Fernández y Brígida Viejo en la puerta de la casa familiar en Devesa de Curueño	p12	Inmaculada Fernández Gago
+164	i164	Vecinos merendando en verano en el soto de Devesa de Curueño	p13	Ludi Viejo González
+165	i165	Ludi Viejo con el burro Marcelo en Devesa de Curueño	p13	Ludi Viejo González
+166	i166	Vecinos en la calle Nueva de Devesa de Curueño	p13	Ludi Viejo González
+167	i167	Ludi Viejo delante de su casa bajo la nieve	p13	Ludi Viejo González
+168	i168	Ludi y Angelina Viejo con varios niños y niñas en Devesa de Curueño	p13	Ludi Viejo González
+169	i169	No sabemos quiénes son	p13	Ludi Viejo González
+170	i170	Grupo de militares posando, uno de ellos con la cara recortada	p13	Ludi Viejo González
+171	i171	Grupo de chicas arregladas posando delante de un coche en Devesa de Curueño	p13	Ludi Viejo González
+172	i172	Recordatorio de primera comunión de Ludi Viejo en Devesa de Curueño	p13	Ludi Viejo González
+173	i173	Procesión de la Virgen de Fátima y el Sagrado Corazón en Devesa de Curueño	p13	Ludi Viejo González
+174	i174	María Robles, Maribel Diez, Ludi Viejo y una nieta en el portal de la casa familiar en Devesa de Curueño	p13	Ludi Viejo González
+175	i175	José Cazorla de espaldas saliendo de la casa familiar en Devesa de Curueño	p13	Ludi Viejo González
+176	i176	Ceferina y la madre de Ludi Viejo en el juego bolos camino de misa en Devesa de Curueño	p13	Ludi Viejo González
+177	i177	La maestra doña Marina Liébana con las alumnas y alumnos en Devesa de Curueño	p13	Ludi Viejo González
+178	i178	El cura don Amancio con las niñas y niños de Devesa de Curueño en la puerta de la Iglesia	p13	Ludi Viejo González
+179	i179	Cándida González tendiendo la ropa en el prao Molino en Devesa de Curueño	p13	Ludi Viejo González
+180	i180	Ludi Viejo con su sobrina Brígida Viejo y el burro Marcelo en Devesa de Curueño	p13	Ludi Viejo González
+181	i181	Grupo de jóvenes el día de San Miguelín en Devesa de Curueño	p13	Ludi Viejo González
+182	i182	 Grupo de niños y niñas en Devesa de Curueño	p13	Ludi Viejo González
+183	i183	Retrato de estudio de Paula Robles	p14	Mª Luisa Fernández Gago
+184	i184	Retrato de estudio del Teófilo Robles, cura de Villimer	p14	Mª Luisa Fernández Gago
+185	i185	Retrato de estudio de Felix, Aurelia y su hijo Aníbal en León	p14	Mª Luisa Fernández Gago
+186	i186	Orencio, Nati y su hija Araceli en la huerta en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+187	i187	Retrato de estudio del beato Saturio	p14	Mª Luisa Fernández Gago
+188	i188	Retrato de los beatos Saturio y Felicísimo	p14	Mª Luisa Fernández Gago
+189	i189	Retrato de estudio de Julio Robles en León	p14	Mª Luisa Fernández Gago
+190	i190	Retrato de estudio de María con sus hijos Godofredo y Fernando	p14	Mª Luisa Fernández Gago
+191	i191	Pelando el lúpulo en la finca de Agustín Ruiz en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+192	i192	Andrés Gago con su nieta Mª Luisa Fernández limpiando fréjoles en las eras del Encinar en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+193	i193	Angelina Fernández y Telvi Ruiz en la Quebrantada I	p14	Mª Luisa Fernández Gago
+194	i194	Grupo de chicas asistentes a clases de corte y confección a las puertas del bar Honrado en Barrio de Nuestra Señora	p14	Mª Luisa Fernández Gago
+195	i195	Angelina Fernández y Telvi Ruiz en la Quebrantada II	p14	Mª Luisa Fernández Gago
+196	i196	Grupo de mujeres jóvenes sentadas en la pradera en el soto de Devesa de Curueño	p14	Mª Luisa Fernández Gago
+197	i197	Celestina González, Marisa Fernández, Luisa Robles y Manolo Villaverde en un pontón con un pavo el día de Navidad en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+198	i198	Grupo de amigas de Devesa de fiesta en el soto de Barrio de Nuestra Señora	p14	Mª Luisa Fernández Gago
+199	i199	Marisa Fernández en bicicleta en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+200	i200	Grupo de amigos delante de la casa de Marisa Fernández en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+201	i201	Marisa Fernández en el puente de Ambasaguas de Curueño	p14	Mª Luisa Fernández Gago
+202	i202	Baile-vermouth el día de San Miguelín en la plaza de Devesa de Curueño	p14	Mª Luisa Fernández Gago
+203	i203	Grupo de amigos con una bicicleta y una Vespa un domingo en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+204	i204	Ángel Fernández con unos amigos vestidos con ropas árabes durante el servicio militar en África	p14	Mª Luisa Fernández Gago
+205	i205	Marisa Fernández y Amable Ruiz en el baile-vermouth el día de San Miguelín en Devesa de Curueño	p14	Mª Luisa Fernández Gago
+206	i206	Procesión de inauguración de la imagen de la virgen de Fátima en Devesa de Curueño I	p14	Mª Luisa Fernández Gago
+207	i207	Recordatorio de primera comunión de Rosario Fernández posando en un estudio de León	p14	Mª Luisa Fernández Gago
+208	i208	Recordatorio de primera comunión de Angelina Fernández vestida con el hábito de Santa Teresa en un estudio de León	p14	Mª Luisa Fernández Gago
+209	i209	Dos franciscanos de misiones en Devesa de Curueño, uno de ellos portando una cruz 	p14	Mª Luisa Fernández Gago
+210	i210	Fiesta en el soto Barrio de Nuestra Señora	p14	Mª Luisa Fernández Gago
+211	i211	Juventud de Devesa de Curueño en una fiesta en el soto de Barrio de Nuestra Señora	p14	Mª Luisa Fernández Gago
+212	i212	Grupo de jóvenes en el baile-vermouth el día de San Miguelín en la plaza de Devesa de Curueño	p14	Mª Luisa Fernández Gago
+213	i213	Fiesta del Corpus en Cerezales del Condado	p14	Mª Luisa Fernández Gago
+214	i214	Grupo de chicas en Ambasaguas de Curueño 	p14	Mª Luisa Fernández Gago
+215	i215	La maestra Marina Liébana con las alumnas y alumnos en el exterior de la escuela de Devesa de Curueño 	p14	Mª Luisa Fernández Gago
+216	i216	Retrato de estudio de Obdulia Rey	p14	Mª Luisa Fernández Gago
+217	i217	Retrato de Conrado Gago de militar en Melilla 	p14	Mª Luisa Fernández Gago
+218	i218	Procesión de inauguración de la imagen de la virgen de Fátima en Devesa de Curueño II	p14	Mª Luisa Fernández Gago
+219	i219	Recordatorio de Marisa Fernández como alumna de la escuela de Devesa de Curueño	p14	Mª Luisa Fernández Gago
+220	i220	Retrato de Néstor Díez	p15	Nestor Díez Robles 
+221	i221	Llevando una imagen de la Virgen de Fátima en una procesión en Devesa de Curueño	p15	Nestor Díez Robles 
+222	i222	Retrato de la familia Díez Robles en Devesa de Curueño	p15	Nestor Díez Robles 
+223	i223	Retrato de Felicísimo Díez y Saturio Rey	p15	Nestor Díez Robles 
+224	i224	Boda de Néstor Díez y Emma Castro en la iglesia del Mercado en León	p15	Nestor Díez Robles 
+225	i225	Gregorio Díez (Goro) y Emma Castro con el ramo de novia en la puerta de la Iglesia del Mercado en León	p15	Nestor Díez Robles 
+226	i226	Néstor Díez firmando el día de su boda en la iglesia del Mercado en León	p15	Nestor Díez Robles 
+227	i227	Procesión del Sagrado Corazón en Devesa de Curueño	p16	Sinaita Gago González 
+228	i228	Procesión con la imagen de la Virgen de Fátima en Devesa de Curueño	p16	Sinaita Gago González 
+229	i229	La familia en la puerta de su casa en Devesa de Curueño	p16	Sinaita Gago González 
+230	i230	Oliva González y Antonia Gago en Devesa de Curueño	p16	Sinaita Gago González 
+231	i231	Fotografía de boda de Gari Trapero junto a sus familiares en Devesa de Curueño	p16	Sinaita Gago González 
+232	i232	Nila Gago en Vegas del Condado	p16	Sinaita Gago González 
+233	i233	Mari Feli y Mª Jesús Castro en el corral de la casa familiar en Devesa de Curueño	p16	Sinaita Gago González 
+234	i234	Felicidad con su hija Amor González en brazos en Barrio de Nuestra Señora	p16	Sinaita Gago González 
+235	i235	Cuqui Gago y León delante de la tapia de la Rinconada en Devesa de Curueño	p16	Sinaita Gago González 
+236	i236	Oliva González, Sini y Antonia Gago y una compañera en el Prao Molino en Devesa de Curueño	p16	Sinaita Gago González 
+237	i237	Amancio Castro, Cuqui Gago y un amigo en el bar de Barrio de Nuestra Señora	p16	Sinaita Gago González 
+238	i238	Irene Fernández y Sini Gago en la Rinconada en Devesa de Curueño	p16	Sinaita Gago González 
+239	i239	Irene Fernández, Sari Rey y Sini Gago el día de San Miguel en el Prao Molino en Devesa de Curueño	p16	Sinaita Gago González 
+240	i240	Belenita Castro el día de su boda con familiares y amigos en la puerta de la iglesia de Gallegos de Curueño	p16	Sinaita Gago González 
+241	i241	La familia de Ireneo Gago y María en la casa familiar en Devesa de Curueño	p16	Sinaita Gago González 
+242	i242	La familia de Juan González y Demetria Ferreras en Barrio de Nuestra Señora	p16	Sinaita Gago González 
+243	i243	Antonia Gago en la escuela de Devesa de Curueño	p16	Sinaita Gago González 
+244	i244	Arsenio Ferreras y Vicente en el aserradero de Barrio de Nuestra Señora	p17	Mercedes Ferreras Mancebo
+245	i245	Arsenio Ferreras con el camión GMC cargado con rachos en el aserradero de Barrio de Nuestra Señora	p17	Mercedes Ferreras Mancebo
+246	i246	Arsenio Ferreras y Regina Mancebo con Anilo Pérez y Pedro González  junto al camión Pegaso cargado con rachos en el aserradero de Barrio de Nuestra Señora	p17	Mercedes Ferreras Mancebo
+247	i247	Pedro Llamera cargando el camión con una grúa en el aserradero de Barrio de Nuestra Señora	p17	Mercedes Ferreras Mancebo
+248	i248	Retrato de Pablo Castro  en la escuela de Barrio de Nuestra Señora	p18	Pablo Castro Robles
+249	i249	Retrato de Pablo Castro en el bar familiar de Barrio de Nuestra Señora	p18	Pablo Castro Robles
+250	i250	El señor Leopoldo y la señora Covadonga cuidando a Pablo Castro	p18	Pablo Castro Robles
+251	i251	Amancio Castro el día de su primera comunión con su hermano Pablo en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+252	i252	Javier Castro con un perro en el patio de la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+253	i253	Amancio y Pablo Castro en la puerta del bar familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+254	i254	Amancio, Pablo y Javier Castro jugando con la nieve en el patio de la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+255	i255	Pablo y Javier Castro jugando con la nieve en el patio de la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+256	i256	Amancio y Pablo Castro jugando con la nieve en el patio de la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+257	i257	Pablo Castro el día de su primera comunión en el patio de la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+258	i258	Matanza del cerdo en la casa de la familia Castro Robles en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+259	i259	Amancio, Pablo y Javier Castro disfrazados el día de carnaval junto a la casa familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+260	i260	Nori Robles trabajado en el bar familiar en Barrio de Nuestra Señora	p18	Pablo Castro Robles
+261	i261	Grupo de chicas en Ambasaguas de Curueño	p19	Oscar González Castro y Pilar Castro Cascón 
+262	i162	Retrato de estudio de Fidel Cascón en León	p19	Oscar González Castro y Pilar Castro Cascón 
+263	i263	Leoncio Escapa,  familiares y amigos el día de su boda	p19	Oscar González Castro y Pilar Castro Cascón 
+264	i264	Grupo de niñas haciendo la primera comunión en Barrillos de Curueño	p19	Oscar González Castro y Pilar Castro Cascón 
+265	i265	Retrato de estudio de Emilio Mancebo de militar en León	p19	Oscar González Castro y Pilar Castro Cascón 
+266	i266	Retrato de estudio de Clemente Castro e Isidoro Castro vestidos de militares en León	p19	Oscar González Castro y Pilar Castro Cascón 
+267	i267	La maestra Manuela con las alumnas y alumnos en Ambasaguas de Curueño	p19	Oscar González Castro y Pilar Castro Cascón 
+268	i268	Retrato de las familias de Generoso,  la maestra Manuela y los Arroyo en Ambasaguas de Curueño	p19	Oscar González Castro y Pilar Castro Cascón 
+269	i269	Tres niños sentados en un coche en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+270	i270	Primera comunio_n de la hermana de Mª Rosa Martínez (Nena) en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+271	i271	Primera comunio_n de la hermana de Mª Rosa Martínez (Nena) en Barrio de Nuestra Señora II	p20	Mª Rosa Martínez Díez 
+272	i272	Delfina y su hija preparando la comida en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+273	i273	Grupo de jóvenes en el soto de Barrio de Nuestra Sen_ora	p20	Mª Rosa Martínez Díez 
+274	i274	El padre de Mª Rosa Martínez (Nena) junto a otros jóvenes junto al río Curueño.	p20	Mª Rosa Martínez Díez 
+275	i275	Amigos sentados en el banco a la puerta de una casa	p20	Mª Rosa Martínez Díez 
+276	i276	Grupo de mujeres aprendices de costura en Ambasaguas de Curuen_o	p20	Mª Rosa Martínez Díez 
+277	i277	Comida en casa de la abuela de Mª Rosa Martínez (Nena) en la fiesta en Barrio de Nuestra Sen_ora	p20	Mª Rosa Martínez Díez 
+278	i278	Cuatro niñas vestidas de trajes regionales	p20	Mª Rosa Martínez Díez 
+279	i279	El Padre de Mª Rosa Martínez (Nena) en la tienda de Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+280	i280	Niños vestidos de domingo	p20	Mª Rosa Martínez Díez 
+281	i281	El Padre de Mª Rosa Martínez (Nena) en el bar de Barrio de Nuestra Sen_ora	p20	Mª Rosa Martínez Díez 
+282	i282	Mª Rosa Martínez (Nena) delante del bar familiar en Barrio de Nuestra Sen_ora	p20	Mª Rosa Martínez Díez 
+283	i283	Mª Rosa Martínez (Nena) junto a su hermana y una amiga en el exterior de la sala de fiestas Las Vegas en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+284	i284	Mª Rosa Martínez (Nena) junto a sus hermanos y un tío en la huerta en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+285	i285	El padre y la tía de Mª Rosa Martínez (Nena) en la huerta familiar de Barrio de Nuestra Señora 	p20	Mª Rosa Martínez Díez 
+286	i286	Marielo en un cantamisas en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+287	i287	Comida en un cantamisas en Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+288	i288	Grupo de amigos en una huerta de Barrio de Nuestra Señora	p20	Mª Rosa Martínez Díez 
+289	i289	Guardando las patatas en Barrio de Nuestra Sen_ora	p20	Mª Rosa Martínez Díez 
+290	i290	Grupo de mujeres en un carro yendo de hacendera en Ambasaguas de Curueño	p21	Mª Jesús González Rodríguez 
+291	i291	 Reunión de los habitantes de Ambasaguas de Curueño con motivo de alguna celebración	p21	Mª Jesús González Rodríguez 
+292	i292	Reunión de María “La Arroya” con amistades de elevada clase social en Barrio de Nuestra Señora	p21	Mª Jesús González Rodríguez 
+293	i293	Retrato de Pedro “El Cantero”	p21	Mª Jesús González Rodríguez 
+294	i294	Retrato de Eladio Díez vestido de militar	p22	Milagros Díez 
+295	i295	Retrato de Floriano Díez vestido de militar	p22	Milagros Díez 
+296	i296	Retrato del tío Argimiro Valladares y Veridiana González con sus hijos Baltasar, Juliana e Hilarino delante de la casa de Jesusa en Ambasaguas de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+297	i297	El tío Argimiro Valladares con sus compañeros de caza el tío Gerardo y el tío Eloy en Ambasaguas de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+298	i298	 Ramón Valladares descargando un carro de alfalfa en Ambasaguas de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+299	i299	Figinio y Darío tocando en la fiesta de Ambasaguas de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+300	i300	Sar Valladares e Isidro en Barrillos de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+301	i301	En la central eléctrica de Ambasaguas de Curueño I	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+302	i302	En la central eléctrica de Ambasaguas de Curueño II	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+302	i303	En la pasarela del canal de la central eléctrica de Ambasaguas de Curueño	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+304	i304	El abuelo Eugenio González montando en burra	p23	Pedro Valladares Escapa e Hilarino Valladares González 
+305	i305	Licencia de pesca de Manuel Martínez	p24	Mª Rubentina Aller Castro
+306	i306	Manuel Martínez y su amigo José Luis limpiando el cereal en la era en Cerezales del Condado	p24	Mª Rubentina Aller Castro
+307	i307	Rubenita Aller sentada en una pradera en una fiesta	p24	Mª Rubentina Aller Castro
+308	i308	Rubenita Aller sentada junto al puente de Ambasaguas en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+309	i309	Rubenita Aller con unas niñas junto al río Curueño	p24	Mª Rubentina Aller Castro
+310	i310	Manuel Martínez y un cuñado bromeando con una caña en Llamas de la Ribera 	p24	Mª Rubentina Aller Castro
+311	i311	Manuel Martínez durante el servicio militar en Salamanca I	p24	Mª Rubentina Aller Castro
+312	i312	Manuel Martínez durante el servicio militar en Salamanca II	p24	Mª Rubentina Aller Castro
+313	i313	Don Anselmo con una cámara de fotos junto a otros sacerdotes en la puerta de la casa rectoral en Cerezales del Condado	p24	Mª Rubentina Aller Castro
+314	i314	Fiesta del Corazón de Jesús en el Canterico Verde en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+315	i315	La familia Martínez Aller en la era del tío Lino de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+316	i316	Mª del Mar Martínez con dos muñecas en el taller de carrero de su abuelo en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+317	i317	Don Emiliano con las mozas del pueblo a la salida de su cantamisas en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+318	i318	El padre Hilarino con las mozas de Ambasaguas de Curueño en la puerta de su casa	p24	Mª Rubentina Aller Castro
+319	i319	Con el pendón y cohetes a la puerta de la iglesia de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+320	i320	Manuel Martínez trillando en la era en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+321	i321	 El padre Hilarino durante su cantamisas en la iglesia de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+322	i322	Procesión junto a la iglesia en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+323	i323	Mujeres en un carro de hacendera para hacer gaviones como protección contra las inundaciones	p24	Mª Rubentina Aller Castro
+324	i324	Primeras comuniones en la iglesia de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+325	i325	Mª del Mar Martínez el día de su primera comunión con su abuelo Bonifacio Aller	p24	Mª Rubentina Aller Castro
+326	i326	Bonifacio Aller y su hermano en el taller de carros de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+327	i327	Fotografía de estudio de la boda de Bonifacio Aller y Antonia Castro en León	p24	Mª Rubentina Aller Castro
+328	i328	Trillando en la era en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+329	i329	Mª del Mar Martínez y un amigo con dos perros en la puerta de la casa familiar de Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+330	i330	Fotografía para identificación de Tomasa González	p24	Mª Rubentina Aller Castro
+331	i331	Manuel Martínez unciendo las vacas en Ambasaguas de Curueño	p24	Mª Rubentina Aller Castro
+332	i332	Antonia Castro, Mª del Mar Martínez y una amiga en el taller de carros familiar en Ambasaguas de Curueño.	p24	Mª Rubentina Aller Castro
+333	i333	Escuelas de Ambasaguas de Curueño	p25	Tere García González 
+334	i334	Retrato de tío Ramiro 	p25	Tere García González 
+335	i335	Retrato de Manuela Cascón, Fructuosa González y Pepe Martínez en Ambasaguas de Curueño	p25	Tere García González 
+336	i336	Leoncio, Luisa, Carmen y Fimo en el puente que une Ambasaguas de Curueño y Barrio de Nuestra Señora	p25	Tere García González 
+337	i337	Retrato de Lauren García como recordatorio cuando se fue a México	p25	Tere García González 
+338	i338	Retrato de Fructuosa González y Manuela Cascón	p25	Tere García González 
+339	i339	Retrato de estudio de Fructuosa González	p25	Tere García González 
+340	i340	Retrato de estudio de Lauren García en México	p25	Tere García González 
+341	i341	Plácido y Toñi Escapa en Ambasaguas de Curueño 	p25	Tere García González 
+342	i342	Retrato estudio de la primera comunión de Lauren González 	p25	Tere García González 
+343	i343	Retrato de Generoso González	p25	Tere García González 
+344	i344	Carlos Escapa, Plácido Escapa, Susi y Toñi García en el río en Barrio de Nuestra Señora	p25	Tere García González 
+345	i345	Bárbara Rojo, Manuela Cascón y Fructuosa González en la iglesia de Ambasaguas de Curueño	p25	Tere García González 
+346	i346	Don Pablo Díez, Secundino y Doña Josefina en una cena en México	p25	Tere García González 
+347	i347	Besamanos en el cantamisas de Miguel en Barrio de Nuestra Señora	p25	Tere García González 
+348	i348	Retrato de estudio de More González 	p25	Tere García González 
+349	i349	Mª Antonia, Tere y Lauren García en Ambasaguas de Curueño	p25	Tere García González 
+350	i350	Fructuosa y Socorro González en Ambasaguas de Curueño	p25	Tere García González 
+351	i351	Retrato de Tere García	p25	Tere García González 
+352	i352	Comida en el cantamisas de Miguel en Barrio de Nuestra Señora	p25	Tere García González 
+353	i353	Retrato de estudio de Eugenio Robles y Quiteria	p25	Tere García González 
+354	i354	Retrato de estudio de Antonio González vestido de militar 	p25	Tere García González 
+355	i355	Retrato de estudio de la abuela Graciana , el abuelo Plácido y el tío Juanito	p25	Tere García González 
+356	i356	Hombre posando en la carretera	p25	Tere García González 
+357	i357	Retrato del dominico Benjamín	p25	Tere García González 
+358	i358	Besamanos en el cantamisas de Licinio Fernández en la iglesia de Ambasaguas de Curueño	p25	Tere García González 
+359	i359	Jóvenes de Ambasaguas de Curueño con Licinio Fernández el día de su cantamisas	p25	Tere García González 
+360	i360	Amador Aller de militar en un camión	p25	Tere García González 
+361	i361	Amador Aller posando junto a su taxi 	p25	Tere García González 
+362	i362	Rosalina y Fructuosa González delante de la casa familiar en Ambasaguas de Curueño	p25	Tere García González 
+363	i363	Tere García en la huerta en Ambasaguas de Curueño	p25	Tere García González 
+364	i364	Músicos tocando junto a los mozos en una fiesta en Ambasaguas de Curueño	p25	Tere García González 
+365	i365	Retrato de estudio de Ismael García I 	p25	Tere García González 
+366	i366	Retrato de estudio de Manuela Rojo, Maruja González, Manuela Cascón y María “La Arroya”	p25	Tere García González 
+367	i367	José Ramón Escapa en un carricoche Ambasaguas de Curueño	p25	Tere García González 
+368	i368	Retrato de estudio del abuelo Secundino García y tío Juanito 	p25	Tere García González 
+369	i369	Retrato de estudio de Fructuosa González	p25	Tere García González 
+370	i370	Retrato de estudio de Ismael García II	p25	Tere García González 
+371	i371	La juventud junto a Hilarino Valladares el día de su cantamisas en Ambasaguas de Curueño	p25	Tere García González 
+372	i372	La abuela Manuela Rojo con la familia en la puerta de la casa de Ambasaguas de Curueño	p25	Tere García González 
+373	i373	Fructuosa González con su nieto Plácido Escapa en Ambasaguas de Curueño	p25	Tere García González 
+374	i374	Retrato de Fructuosa González y Plácido García con su hija Mª Antonia en Ambasaguas de Curueño	p26	Toñi Escapa García 
+375	i375	Retrato de Mª Antonia García de niña en Ambasaguas de Curueño	p26	Toñi Escapa García 
+376	i376	Retrato de estudio de la boda de Marcial y Lina	p26	Toñi Escapa García 
+377	i377	Pelando el lúpulo en Ambasaguas de Curueño	p26	Toñi Escapa García 
+378	i378	Grupo de chicas posando  en Ambasaguas de Curueño	p26	Toñi Escapa García 
+379	i379	Carné de identidad y conducta de Abel Escapa	p26	Toñi Escapa García 
+380	i380	Abel Escapa en un despacho militar	p26	Toñi Escapa García 
+381	i381	Grupo de chicas en Ambasaguas de Curueño	p26	Toñi Escapa García 
+382	i382	Juventud en Ambasaguas de Curueño	p26	Toñi Escapa García 
+383	i383	Llevando en andas la imagen del Sagrado Corazón en una procesión en Ambasaguas de Curueño	p26	Toñi Escapa García 
+384	i384	Junto al puente que une Barrio de Nuestra señora y Ambasaguas de Curueño	p26	Toñi Escapa García 
+385	i385	Fiesta para la restauración de la iglesia de Ambasaguas de Curueño I	p26	Toñi Escapa García 
+386	i386	Fiesta para la restauración de la iglesia de Ambasaguas de Curueño II	p26	Toñi Escapa García 
+387	i387	Fiesta para la restauración de la iglesia de Ambasaguas de Curueño III	p26	Toñi Escapa García 
+388	i388	Amador haciendo el adobo en la matanza en Ambasaguas de Curueño	p26	Toñi Escapa García 
+389	i389	Pila bautismal en la iglesia de Ambasaguas de Curueño	p26	Toñi Escapa García 
+390	i390	Grupo de niñas y un niño en la casa del médico en Ambasaguas de Curueño	p26	Toñi Escapa García 
+391	i391	Grupo de niñas y niños en el monte de Ambasaguas de Curueño	p26	Toñi Escapa García 
+392	i394	 Grupo de mujeres jugando a la brisca en una calle de Castro del Condado	p27	Aida Robles Prieto 
+393	i395	Fraile con grupo de jóvenes en la puerta de la iglesia de Castro del Condado	p27	Aida Robles Prieto 
+394	i396	Teodorino Castro en la huerta en Castro del Condado	p27	Aida Robles Prieto 
+395	i397	Baile en la fiesta de San Miguel en Castro del Condado	p27	Aida Robles Prieto 
+396	i398	Preparando una alubiada en la Fiesta de San Miguel de Castro del Condado	p27	Aida Robles Prieto 
+397	i399	Aida Robles, Emma Prieto y un amigo entre girasoles en una huerta en Castro del Condado 	p27	Aida Robles Prieto 
+398	i400	Familia Castro Robles con un borriquillo en Castro del Condado	p27	Aida Robles Prieto 
+399	i401	Adobando la matanza en una cocina de Castro del Condado	p27	Aida Robles Prieto 
+400	i402	Comitiva de la boda de Mercedes Castro y José Fernández dirigiéndose a la iglesia en Castro del Condado	p27	Aida Robles Prieto 
+401	i403	Eugenio Castro dando de comer a los conejos en Castro del Condado	p27	Aida Robles Prieto 
+402	i404	Teodorino Castro mostrando su novillo en Castro del Condado	p27	Aida Robles Prieto 
+403	i405	Fotografía de carné de Teodorino Castro	p27	Aida Robles Prieto 
+404	i406	Aida Robles y Amparo paseando por León	p27	Aida Robles Prieto 
+405	i407	Aida Robles y Luz Fernández bailando en la era en la fiesta de Castro del Condado	p27	Aida Robles Prieto 
+406	i408	Chicas posando en una moto durante las fiestas de Ambasaguas de Curueño	p27	Aida Robles Prieto 
+407	i409	Teodorino Castro junto a un avión durante el servicio militar en Valladolid	p27	Aida Robles Prieto 
+408	i410	Olga Castro vendimiando en Castro del Condado	p27	Aida Robles Prieto 
+409	i411	Teodorino Castro junto a otros alumnos en una escuela de otra provincia	p27	Aida Robles Prieto 
+410	i412	Familia Robles Prieto en Castro del Condado	p27	Aida Robles Prieto 
+411	i413	Hermanos Robles Prieto en Castro del Condado	p27	Aida Robles Prieto 
+412	i414	Retrato de estudio de Dionisio Robles en Argentina	p27	Aida Robles Prieto 
+413	i415	Grupo familiar en una huerta de Castro del Condado I	p27	Aida Robles Prieto 
+414	i416	Grupo familiar en una huerta de Castro del Condado II	p27	Aida Robles Prieto 
+415	i417	Grupo familiar en una huerta de Castro del Condado III	p27	Aida Robles Prieto 
+416	i418	Grupo familiar en una huerta de Castro del Condado IV	p27	Aida Robles Prieto 
+417	i419	Olga Castro en la escuela de Castro del Condado	p27	Aida Robles Prieto 
+418	i420	Grupo de escolares con la maestra de Castro del Condado	p27	Aida Robles Prieto 
+419	i421	Olga Castro y “abuela” en Castro del Condado	p27	Aida Robles Prieto 
+420	i422	Juventud en el baile de Barrillos de Curueño	p27	Aida Robles Prieto 
+421	i423	Aida Robles y Raquel Prieto volviendo de misa en Castro del Condado	p27	Aida Robles Prieto 
+422	i424	Emma Prieto y Aida Robles bailando en la fiesta de San Pedrín en Castro del Condado	p27	Aida Robles Prieto 
+423	i425	Grupo de chicas posando en jarras durante la fiesta de Santiago de Vegas del Condado	p27	Aida Robles Prieto 
+424	i426	Grupo de chicas posando durante la fiesta de Santiago de Vegas del Condado	p27	Aida Robles Prieto 
+425	i427	Lina Díez y Juventino Castro en la fiesta de Barrillos del Curueño	p27	Aida Robles Prieto 
+426	i428	Olga Castro estrenando chaqueta de angorina en Castro del Condado	p27	Aida Robles Prieto 
+427	i429	Recordatorio de Merceditas en Castro del Condado para su madre emigrada en Venezuela I	p27	Aida Robles Prieto 
+428	i430	Recordatorio de Merceditas en Castro del Condado para su madre emigrada en Venezuela II	p27	Aida Robles Prieto 
+429	i431	Mujeres con niños en las fiestas de Barrio de Nuestra Señora	p27	Aida Robles Prieto 
+430	i432	Recordatorio de Merceditas en Castro del Condado para su madre emigrada en Venezuela III	p27	Aida Robles Prieto 
+431	i433	Olga Castro dando de comer a las gallinas en Castro del Condado	p27	Aida Robles Prieto 
+432	i434	Corro de aluches en las fiestas de Castro del Condado	p27	Aida Robles Prieto 
+433	i435	Teodorino Castro y compañero en el servicio militar en Valladolid	p27	Aida Robles Prieto 
+434	i436	Recordatorio de Merceditas en Castro del Condado para su madre emigrada en Venezuela IV	p27	Aida Robles Prieto 
+435	i437	Fotografía de Boda de Eugenio Castro e Irene Robles	p27	Aida Robles Prieto 
+436	i438	Trillando en las eras de Barrio del Nuestra Señora	p28	Avelina Ferreras Fernández 
+437	i439	María Robles, de primera comunión, con su padre Honorino Robles, su hermana Lucía y la abuela Lucía en Barcelona	p28	Avelina Ferreras Fernández 
+438	i440	Gregorio Díez (Goro) en Argentina	p28	Avelina Ferreras Fernández 
+439	i441	Retrato de estudio de Gregorio Díez (Goro) vestido de militar	p28	Avelina Ferreras Fernández 
+440	i442	Olegario Prieto con unas amigas en la Fonda Honrado en Barrio de Nuestra Señora	p28	Avelina Ferreras Fernández 
+441	i443	Miguel Prieto haciendo el saludo militar durante la guerra civil	p28	Avelina Ferreras Fernández 
+442	i444	Emma Prieto y Santiago disfrazados en el carnaval en Castro del Condado	p28	Avelina Ferreras Fernández 
+443	i445	La familia de Hermógenes Prieto trillando en la era 	p28	Avelina Ferreras Fernández 
+444	i446	Fraile rodeado por jóvenes delante de la iglesia de Castro del Condado	p28	Avelina Ferreras Fernández 
+445	i447	Mozas y niños de Castro del Condado en Barrillos de Curueño	p28	Avelina Ferreras Fernández 
+446	i448	La mujer de Gregorio Díez (Goro) con una sobrina en León	p28	Avelina Ferreras Fernández 
+447	i449	Niños y niñas de Castro del Condado de primera comunión junto con el cura don Desiderio 	p28	Avelina Ferreras Fernández 
+448	i450	Retrato de Maximiano González y Asunción Robles con sus hijos Epigmenio y Eremio	p29	Mª Dolores González López 
+449	i451	Retrato de estudio de Emelino González en Buenos Aires	p29	Mª Dolores González López 
+450	i452	Maximiano González paseando por la calle Mayor de Castro del Condado	p29	Mª Dolores González López 
+451	i453	Mª Dolores González y amigos trillando en la era de Castro el Condado	p29	Mª Dolores González López 
+452	i454	La maestra doña Eduviges y Hermelinda Llamazares delante de la escuela nueva de Castro del Condado	p29	Mª Dolores González López 
+453	i455	Vecinos disfrazados con delantales el día de la fiesta delante de la escuela de Castro del Condado	p29	Mª Dolores González López 
+454	i456	Maximiano González delante de la casa familiar de Castro del Condado	p29	Mª Dolores González López 
+455	i457	José María de la Puente, Javier Robles y José María en Navidad en la sala Las Vegas de Barrio de Nuestra Señora	p29	Mª Dolores González López 
+456	i458	Lucio Carcedo preparando las alubias el día de la fiesta de San Miguel en Castro del Condado	p29	Mª Dolores González López 
+457	i459	La diana el día de la fiesta en Castro del Condado	p29	Mª Dolores González López 
+458	i460	Procesión de la fiesta de San Miguel en Castro del Condado I	p29	Mª Dolores González López 
+459	i461	Imagen de San Miguel en la procesión de la fiesta de Castro del Condado	p29	Mª Dolores González López 
+460	i462	Procesión de la fiesta de San Miguel en Castro del Condado II	p29	Mª Dolores González López 
+461	i463	Músicos tocando mientras se preparan las alubias en la fiesta de Castro del Condado	p29	Mª Dolores González López 
+462	i464	Baile en la fiesta de Castro del Condado	p29	Mª Dolores González López 
+463	i465	Fernando de la Puente sobre la superficie helada de la laguna de Castro del Condado	p29	Mª Dolores González López 
+464	i466	Teodorino Castro con Alejandro de la Puente trabajando la tierra con las vacas y la rastra 	p29	Mª Dolores González López 
+465	i467	Las merinas pasando por el cordel que atraviesa Castro del Condado I	p29	Mª Dolores González López 
+466	i468	Las merinas pasando por el cordel que atraviesa Castro del Condado II	p29	Mª Dolores González López 
+467	i469	Las merinas pasando por el cordel que atraviesa Castro del Condado III	p29	Mª Dolores González López 
+468	i470	Las merinas pasando por el cordel que atraviesa Castro del Condado IV	p29	Mª Dolores González López 
+469	i471	Músicos tocando la diana en las fiestas de Castro del Condado	p30	Luz López Cañón 
+470	i472	La mocedad de Castro del Condado	p30	Luz López Cañón 
+471	i473	Rubén, nieto de Luz López, en Castro del Condado	p30	Luz López Cañón 
+472	i474	Nicasio Honrado con un carro de leña en el corral en Castro del Condado	p30	Luz López Cañón 
+473	i475	El ingeniero don Augusto junto con algunos habitantes de Castro del Condado.	p30	Luz López Cañón 
+474	i476	Retrato de estudio de don Nicasio Mancebo	p30	Luz López Cañón 
+475	i477	Retrato de Conchita Mancebo	p30	Luz López Cañón 
+476	i478	Nicasio Honrado junto con dos compañeros durante el servicio militar en África	p30	Luz López Cañón 
+477	i479	Retrato de Ángel Blanco	p30	Luz López Cañón 
+478	i480	Retrato de Conrado Castro	p30	Luz López Cañón 
+468	i481	Nicasio Honrado ejerciendo de practicante durante el servicio militar en África	p30	Luz López Cañón 
+480	i482	Nicasio Honrado paseando junto a otros compañeros durante el servicio militar en África	p30	Luz López Cañón 
+481	i483	Roberto Honrado en la fonda familiar en Ambasaguas de Curueño	p30	Luz López Cañón 
+482	i484	Retrato de estudio de Roberto Honrado	p30	Luz López Cañón 
+483	i485	Retrato de estudio recortado de Sebastián Honrado	p30	Luz López Cañón 
+484	i486	Retrato de Nicasio Honrado y Sebastián Honrado en Castro del Condado	p30	Luz López Cañón 
+485	i487	Retrato de estudio de Sebastián Honrado	p30	Luz López Cañón 
+486	i488	Retrato de boda en estudio de Sebastián Honrado y Amalia Mancebo	p30	Luz López Cañón 
+487	i489	Grupo de alumnas y alumnos en la escuela de Castro del Condado	p31	Trinidad Rosario Díez Robles 
+488	i490	Familia e invitados de Gregorio Díez en las fiestas de Castro del Condado	p31	Trinidad Rosario Díez Robles 
+489	i491	Trini y Berta Diez con Estrella Robles en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+490	i492	Trinidad y Olegario Robles en el corral de la casa familiar en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+491	i493	Trinidad Robles vestida de negro en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+492	i494	El tío Hermógenes con el carro en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+493	i405	Retrato de dos niños sentados sobre almohadones en una huerta	p31	Trinidad Rosario Díez Robles 
+494	i496	Hermógenes Prieto y Benedicta Robles con vecinos de Castro del Condado	p31	Trinidad Rosario Díez Robles 
+495	i497	 Recordatorio de primera comunión de Trini Díez en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+496	i498	Retrato de una familia en Castro del Condado	p31	Trinidad Rosario Díez Robles 
+497	i499	Fotografi_a extraviada	p31	Trinidad Rosario Díez Robles 
+498	i500	Fotos para el carné de identidad de Saturnino González junto a un retrato de Benedicta González	p32	Benedicta González García 
+499	i501	Saturnino González en el campo con escopeta y perro posando como un cazador 	p32	Benedicta González García 
+500	i502	Perro de caza de un amigo de Saturnino González	p32	Benedicta González García 
+501	i503	María de los Ángeles González junto al río Porma en Cerezales del Condado	p32	Benedicta González García 
+502	i504	Nilo González, Benedicta García y Herminia Joglar con unos pastores junto a un rebaño en el valle de Valmayor	p32	Benedicta González García 
+503	i505	Benjamin González sujetando una oveja el día de San Pedro en Cerezales del Condado	p32	Benedicta González García 
+504	i506	Benjamin González y Nevadita Robles bailando en la fiesta del Corpus en Cerezales del Condado	p32	Benedicta González García 
+505	i507	Nila cuidando a Benjamín González y otros primos en Cerezales del Condado	p32	Benedicta González García 
+506	i508	Efigenio Domínguez de pastor en Montenmedio	p33	Efigenio Domínguez Fernández 
+507	i509	Efigenio Domínguez con el rebaño en el monte de Lugán 	p33	Efigenio Domínguez Fernández 
+508	i510	Efigenio Domínguez con el mastín Tigre y el rebaño en Lugán	p33	Efigenio Domínguez Fernández 
+509	i511	Efigenio Domínguez con el rebaño en el monte de Lugán II	p33	Efigenio Domínguez Fernández 
+510	i512	Efigenio Domínguez de pastor con el rebaño	p33	Efigenio Domínguez Fernández 
+511	i513	Efigenio Domínguez con su hijo y un sobrino y dos mastinas y un perro de aqueda en la puerta de su casa en Cerezales del Condado 	p33	Efigenio Domínguez Fernández 
+512	i514	Efigenio Domínguez con el rebaño en Valmayor	p33	Efigenio Domínguez Fernández 
+513	i515	Emérito Robles dando sal a las ovejas en Valmayor	p34	Emérito Robles Muñiz 
+514	i516	Emérito Robles y Ana con el rebaño en Valmayor	p34	Emérito Robles Muñiz 
+515	i517	Santiago Robles, Gelines Robles y Félix con el rebaño en Valmayor	p34	Emérito Robles Muñiz 
+516	i518	Los pastores Emérito Robles y Efigenio Domínguez en la feria de San Pedro en Boñar	p34	Emérito Robles Muñiz 
+517	i519	Emérito Robles y familia con los perros y el rebaño en el monte	p34	Emérito Robles Muñiz 
+518	i520	Emérito Robles de pastor mostrando el fosco en el monte	p34	Emérito Robles Muñiz 
+519	i521	Emérito Robles de pastor junto a un grupo de cazadores en el monte	p34	Emérito Robles Muñiz 
+520	i522	Emérito Robles de pastor junto a dos cazadores en el monte	p34	Emérito Robles Muñiz 
+521	i523	Emérito Robles apuntando con el fosco junto a un cazador apuntando con una escopeta	p34	Emérito Robles Muñiz 
+522	i524	El tío Eugenio montado en la burra	p34	Emérito Robles Muñiz 
+523	i525	Retrato de estudio de Eugenio vestido de militar en Badajoz	p34	Emérito Robles Muñiz 
+524	i526	Retrato de estudio de Gabino vestido de militar en Alcalá de Henares	p34	Emérito Robles Muñiz 
+525	i527	El tío Gildo y la juventud en la boda de María y Nisanías en Cerezales del Condado I	p34	Emérito Robles Muñiz 
+526	i528	El tío Gildo y la juventud en la boda de María y Nisanías en Cerezales del Condado II	p34	Emérito Robles Muñiz 
+527	i529	Grupo de niños y mujeres en la boda de María y Nisanías en Cerezales del Condado	p34	Emérito Robles Muñiz 
+528	i530	Romería en Barrio de Nuestra Señora	p34	Emérito Robles Muñiz 
+529	i531	Retrato del tío Santiago en Cerezales del Condado	p34	Emérito Robles Muñiz 
+530	i532	El abuelo Santiago, Enedina, Cesáreo y Germán con el carro de hierba en una finca de Cerezales del Condado	p34	Emérito Robles Muñiz 
+531	i533	Retrato de los hermanos Juliana y Germán subidos en sillas 	p34	Emérito Robles Muñiz 
+532	i534	Procesión del Corpus en Cerezales del Condado	p35	Emilio de la Varga González
+533	i535	Procesión del Corpus en Cerezales del Condado II 	p35	Emilio de la Varga González
+534	i536	Músicos tocando en la procesión del Corpus en Cerezales del Condado	p35	Emilio de la Varga González
+535	i537	Calle de la Fuente en Cerezales del Condado II	p35	Emilio de la Varga González
+536	i538	Calle de la Fuente en Cerezales del Condado I	p35	Emilio de la Varga González
+537	i539	Laureano González en la puerta de la casa familiar en Cerezales del Condado	p35	Emilio de la Varga González
+538	i540	Laureano González en el corral de la casa familiar en Cerezales del Condado	p35	Emilio de la Varga González
+539	i541	Marceliano de la Varga con su bisabuela Mercedes Escobar en la casa familiar de Cerezales del Condado 	p35	Emilio de la Varga González
+540	i542	Marceliano de la Varga con su abuelo Laureano González en la casa familiar de Cerezales del Condado	p35	Emilio de la Varga González
+541	i543	La tía Margarita en la puerta de la cocina de horno en la casa familiar de Cerezales del Condado	p35	Emilio de la Varga González
+542	i544	El tío Gildo de la Varga con la dulzaina, Margarita García, Gelina y Lorenzo en un cantamisas en León  	p35	Emilio de la Varga González
+543	i545	El tío Gildo de la Varga con la dulzaina, su hijo Marceliano tocando el tambor y un joven tocando el bombo en un pueblo de la montaña.	p35	Emilio de la Varga González
+544	i546	Los hermanos de la Varga delante del autobús Pegaso de Francisquito en la parada de León.	p35	Emilio de la Varga González
+555	i547	Laureano González y María Antonia Mirantes con la familia en el corral de la casa familiar en Cerezales del Condado.	p35	Emilio de la Varga González
+546	i548	María Antonia Mirantes en Cerezales del Condado	p35	Emilio de la Varga González
+547	i549	Margarita García en la casa familiar de Cerezales del Condado I	p35	Emilio de la Varga González
+548	i550	Margarita García en la casa familiar de Cerezales del Condado II	p35	Emilio de la Varga González
+549	i551	Laureano González y María Antonia Mirantes en la casa familiar de Cerezales del Condado	p35	Emilio de la Varga González
+550	i552	Procesión del Corpus Christi en Cerezales del Condado	p36	Emma Ferreras Robles
+551	i553	Emma Ferreras con sus padres Tiziano Ferreras y Manuela Robles a la puerta de la casa familiar en Cerezales del Condado I	p36	Emma Ferreras Robles
+552	i554	Emma Ferreras con sus padres Tiziano Ferreras y Manuela Robles a la puerta de la casa familiar en Cerezales del Condado II	p36	Emma Ferreras Robles
+553	i555	Tiziano Ferreras, cartero, con su moto en Cerezales del Condado	p36	Emma Ferreras Robles
+554	i556	La familia Ferreras Robles a la puerta de la casa familiar en Cerezales del Condado 	p36	Emma Ferreras Robles
+555	i557	Manuela Robles a la puerta de la casa familiar en Cerezales del Condado 	p36	Emma Ferreras Robles
+556	i558	Manuela Robles junto a las gallinas en Cerezales del Condado	p36	Emma Ferreras Robles
+557	i559	Cargando hierba en Cerezales del Condado	p36	Emma Ferreras Robles
+558	i560	Manuela Robles pelando una gallina en Cerezales del Condado	p36	Emma Ferreras Robles
+559	i561	David Ferreras y su primo Daniel en un pontón sobre la presa en Cerezales del Condado	p36	Emma Ferreras Robles
+560	i562	Altar mayor de la iglesia de Cerezales del Condado	p37	Gaspara González Mirantes
+561	i563	Interior de la iglesia de Cerezales del Condado	p37	Gaspara González Mirantes
+562	i564	Procesión de la Virgen del Rosario en Cerezales del Condado	p37	Gaspara González Mirantes
+563	i565	Procesión del Corpus en Cerezales del Condado	p37	Gaspara González Mirantes
+564	i566	Gaspara González de primera comunión en Cerezales del Condado	p37	Gaspara González Mirantes
+565	i567	Antonio González y Cesáreo González en la ermita de las Villasfrías en Villanueva del Condado	p37	Gaspara González Mirantes
+566	i568	Marceliano de la Varga con su bisabuela Mercedes Escobar en la casa familiar de Cerezales del Condado 	p37	Gaspara González Mirantes
+567	i569	Matando el gocho en el corral de la casa familiar de Laureano González 	p37	Gaspara González Mirantes
+568	i570	Matando el gocho en el corral de la casa familiar de Laureano González II	p37	Gaspara González Mirantes
+569	i571	Procesión de la Virgen de Fátima en la inauguración de la imagen de la Virgen en Cerezales del Condado	p37	Gaspara González Mirantes
+570	i572	Laureano González y María Antonia Mirantes posando en la huerta de la casa familiar	p37	Gaspara González Mirantes
+571	i573	Retrato de familia en las bodas de oro de Laureano González y María Antonia Mirantes en el corral de la casa familiar de Cerezales del Condado	p37	Gaspara González Mirantes
+572	i574	Faroles y Estandarte en la procesión del Corpus en Cerezales del Condado	p37	Gaspara González Mirantes
+573	i575	Antonio González y Justina Fernández en su casa en Argentina	p37	Gaspara González Mirantes
+574	i576	 Emilio y Marce de la Varga y Ricardo Zurdo en la huerta de Cerezales del Condado	p37	Gaspara González Mirantes
+575	i577	Tino González sentado en la puerta de la casa familiar en Cerezales del Condado	p37	Gaspara González Mirantes
+576	i578	Retrato de estudio de Antonio González 	p37	Gaspara González Mirantes
+577	i579	Retrato de Gaspara González junto a unos membrillos en la huerta de la casa familiar en Cerezales del Condado	p37	Gaspara González Mirantes
+578	i580	Segundo día de la fiesta del Corpus en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+579	i581	La maestra Doña Serapia con varias alumnas I	p38	Jose Luis Alonso Hernández 
+580	i582	 La maestra Doña Serapia con varias alumnas II	p38	Jose Luis Alonso Hernández 
+581	i583	El maestro Don Marcos con algunos vecinos	p38	Jose Luis Alonso Hernández 
+582	i584	El puente sobre el Porma, en Cerezales del Condado, un día de escarcha	p38	Jose Luis Alonso Hernández 
+583	i585	La calle y la presa en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+584	i586	El puerto de Vegas en el Porma en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+585	i587	Gelina, Pura, Ester y Joaquina en la calle en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+586	i588	Grupo de niños jugando en la calle en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+587	i589	Dos niñas jugando a las palmas en Cerezales del Condado	p38	Jose Luis Alonso Hernández 
+588	i590	Lilia López Robles enseñando a sus hijos a tirar la garrafa de pescar truchas en Cerezales de Condado	p39	María García López 
+589	i591	Germán García y su madre Lilia López con Ana García en el bautizo de esta en Bilbao	p39	María García López 
+590	i592	Jose Antonio Garcia subido junto a otros compañeros a un poste de teléfonos durante el servicio militar en Ceuta	p39	María García López 
+591	i593	Salida del bautizo de Beatriz en la puerta de la iglesia de Cerezales del Condado	p39	María García López 
+592	i594	Marta García, Alberto José González e Inmaculada junto a la presa en Cerezales del Condado	p39	María García López 
+593	i595	Julia García, María García, Alberto González y Manolo en el patio de la casa familiar de Cerezales del Condado	p39	María García López 
+594	i596	Antonio González posando junto a su taxi en León	p39	María García López 
+595	i597	Alberto José González, Marigel González y Mari Carmen sentados en el capó de un coche en Cerezales.	p39	María García López 
+596	i598	Sobrinos de María García en la calle en Cerezales del Condado	p39	María García López 
+597	i599	La juventud junto a Abundio González en su cantamisas en Cerezales del Condado	p39	María García López 
+598	i600	Tomás González junto a varios familiares en la fiesta del Corpus en la era de Cerezales del Condado	p39	María García López 
+599	i601	Grupo de niños con trajes y palos para la danza del paloteo en Cerezales del Condado	p39	María García López 
+600	i602	Procesión de la Virgen de mayo en Cerezales del Condado 	p39	María García López 
+601	i603	La familia de María García con la burra de su padre en el patio de la casa familiar de Cerezales de Condado	p39	María García López 
+602	i604	Óscar García subido en la burra de su abuelo en el patio de la casa familiar de Cerezales del Condado	p39	María García López 
+603	i605	Marceliano de la Varga tomando la primera comunión en la iglesia de Cerezales del Condado	p39	María García López 
+604	i606	Javier García, Marceliano de la Varga, Juan Manuel de la Varga y Onésimo Gutiérrez haciendo la primera comunión en la iglesia de Cerezales del Condado	p39	María García López 
+605	i607	María de los Ángeles González el día de su primera comunión en Cerezales del Condado	p39	María García López 
+606	i608	María García y familiares preparando una parrillada en la huerta de la casa familiar de Cerezales del Condado	p39	María García López 
+607	i609	Tomás González y Amada Domínguez bailando en la fiesta del Corpus en Cerezales del Condado	p39	María García López 
+608	i610	Mozos y mozas del pueblo el día del Corpus en Cerezales del Condado	p39	María García López 
+609	i611	Grupo de cazadores de Cerezales del Condado, Barrio de Nuestra Señora y Ambasaguas de Curueño	p39	María García López 
+610	i612	Procesión en Cerezales del Condado	p39	María García López 
+611	i613	Tomás González bailando en la fiesta del Corpus en Cerezales del Condado	p39	María García López 
+612	i614	Maria García y familia saliendo un domingo por la tarde de Cerezales del Condado hacia León	p39	María García López 
+613	i615	Dos mozos en bicicleta en el puente que une Ambasaguas de Curueño y Barrio de Nuestra Señora 	p39	María García López 
+614	i616	La tía Melania junto a familiares y vecinos el día de la fiesta en Lugán	p40	Pili Sandoval 
+615	i617	Pilar Sandoval a la puerta de las cocheras de Francisquito en Lugán	p40	Pili Sandoval 
+616	i618	Melino el tamborilero y Darío el dulzainero tocando delante de la iglesia	p40	Pili Sandoval 
+617	i619	El marido y el hijo de Pilar Sandoval pescando en el soto de Ambasaguas de Curueño	p40	Pili Sandoval 
+618	i620	Pilar Sandoval junto a su marido y su hijo mayor en el soto de Ambasaguas	p40	Pili Sandoval 
+619	i621	El hijo mayor de Pili Sandoval en el soto de Ambasaguas de Curueño con una bandera para aquedar las vacas.	p40	Pili Sandoval 
+620	i622	La tía Melania y familia sentados a la puerta de la casa en Lugán	p40	Pili Sandoval 
+621	i623	Boda de Pilar Sandoval en la iglesia de Devesa de Curueño 	p40	Pili Sandoval 
+622	i624	Cleofé Fernández con su hijo Joel Juárez el día que cantó misa don Abundio en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+623	i625	Familia Juárez Fernández junto a la casa del señor Melquíades en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+624	i626	Antonino Fernández y Cinia y Rosario González en compañía de unos amigos en México I	p41	Rosa Mary Juárez Fernández 
+625	i627	Antonino Fernández y Cinia y Rosario González en compañía de unos amigos en México II	p41	Rosa Mary Juárez Fernández 
+626	i628	Antonino Fernández y Cinia y Rosario González en compañía de unos a migos en México III	p41	Rosa Mary Juárez Fernández 
+627	i629	Construyendo el puente sobre el río Porma en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+628	i630	Procesión del Corpus Christi en Cerezales del Condado I	p41	Rosa Mary Juárez Fernández 
+629	i631	Procesión del Corpus Christi en Cerezales del Condado II	p41	Rosa Mary Juárez Fernández 
+630	i632	Procesión del Corpus Christi en Cerezales del Condado III	p41	Rosa Mary Juárez Fernández 
+631	i633	Procesión del Corpus Christi en Cerezales del Condado IV	p41	Rosa Mary Juárez Fernández 
+632	i634	En las eras de Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+633	i635	Los hermanos Eleuterio, Ángel, Teófilo y Juan Fernández en León	p41	Rosa Mary Juárez Fernández 
+634	i636	Retrato de Rosa Mary Juárez en León	p41	Rosa Mary Juárez Fernández 
+635	i637	Iglesia de Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+636	i638	Antonino Fernández y Pascuala Rodríguez con su hija Cleofé y los nietos en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+637	i639	Cumpleaños de Mª Jesús Yagüez en León	p41	Rosa Mary Juárez Fernández 
+638	i640	Joel Juárez y José Luis Yagüez jugando en El Juncal en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+639	i641	Recuerdo del verano junto a las escuelas en Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+640	i642	Altamira Fernández con la familia y la vaca Linda en el reguero de Cerezales del Condado	p41	Rosa Mary Juárez Fernández 
+641	i643	Fotografía de estudio de la familia Fernández Castro en Madrid	p41	Rosa Mary Juárez Fernández 
+642	i644	Retrato de dos hombres dándose la mano	p41	Rosa Mary Juárez Fernández 
+643	i645	Retrato de estudio de un hombre	p41	Rosa Mary Juárez Fernández 
+644	i646	Teyo Fernández en la entrada de la huerta familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+645	i647	La abuela Antolina de Cabo echando de comer a las gallinas en el corral de la casa familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+646	i648	Amado González y Teyo Fernández con un jabalí cazado en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+647	i649	Avelina González y Felisa Gutiérrez subidas en un manzano en la huerta familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+648	i650	María González y Felisa Gutiérrez en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+649	i651	Paseando junto a lúpulo en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+650	i652	Avelina, Nano, Felisa y Caya en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+651	i653	La abuela Antolina de Cabo, Avelina González y Felisa Gutiérrez con un perro en una ventana de la casa familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+652	i654	Teyo Fernández y Felisa Gutiérrez en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+653	i655	Trillando con las vacas en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+654	i656	Hilario y Roberto con el perro Arturo en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+655	i657	Los primos Roberto Fernández, Vicente Gutiérrez y Fernando Gutiérrez en el embalse de Vegamián	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+656	i658	Amigos posando en la entrada de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+657	i659	Roberto Fernández en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+658	i660	Roberto Fernández junto a la casa del tío Hilario en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+659	i661	Felisa Gutiérrez con su hermano Tino en brazos en el corral de la casa familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+660	i662	La familia de Vicente Gutiérrez y Antolina de Cabo en la huerta de la casa familiar de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+661	i663	Felisa Gutiérrez con una muñeca en la huerta de la casa familiar en Cerezales del Curueño	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+662	i664	Albina González y Felisa Gutiérrez bailando en la fiesta del Corpus en la era de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+663	i665	Felisa Gutiérrez en el corral de la casa familiar en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+664	i666	Trabajando en un puerto 	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+665	i667	Roberto Fernández con sus padres el día de su primera comunión	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+666	i668	Grupo de chicas en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+667	i669	Trabajando en un canal	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+668	i670	Haciendo el puente de madera sobre el río Porma en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+669	i671	Grupo de danzas con palos en Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+670	i672	Orquesta en la fiesta de Cerezales del Condado	p42	Emérito Fernández González y Roberto Fernández Gutiérrez 
+671	i673	Felisa Gutiérrez con su sobrino Florentino Gutiérrez en la huerta en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+672	i674	Fernando Gutiérrez en la plaza de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+673	i675	Fernando Gutiérrez con unos amigos subidos en la burra Consorcia en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+674	i676	Nani González con Aidé y Florentino Gutiérrez en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+675	i677	Florentino y Fernando Gutiérrez delante de la casa de sus abuelos en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+676	i678	Díez Valladares posando de militar	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+677	i679	Retrato de estudio de Nicanor González en Argentina	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+678	i680	Retrato de estudio de la mujer de Nicanor González en Argentina	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+679	i681	Cari González trabajando de camarero en la cafetería El Viejo de Boñar	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+680	i682	Roberto Fernández en un triciclo en la era de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+681	i683	 Fernando Gutiérrez en un tacatá en su casa en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+682	i684	La juventud junto a la iglesia en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+683	i685	Caya González lavando la ropa en la calle en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+684	i686	Teyo Fernández con Fernando Gutiérrez y unos primos trillando en la era de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+685	i687	Valeriano con la máquina de segar y las vacas en un camino rodeado de árboles en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+686	i686	Avelina González con su sobrino Roberto Fernández en la casa familiar en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+687	i689	Fotografía de boda de Nicanor González en Argentina	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+688	i690	Valeriano Gutiérrez con su mujer Avelina González y su hermana Felisa Gutiérrez en un descanso de la siega en El Vago de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+689	i691	Tejiendo en un “cerrao” con las vacas en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+690	i692	De luto por el abuelo en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+691	i693	Con las vacas en un “cerrao” en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+692	i694	Roberto Fernández y Luis Fernando Gutiérrez de Primera Comunión en la puerta de la iglesia de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+693	i695	Avelina González en un “prao” con David y Toño González	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+694	i696	Primeras comuniones delante de la iglesia de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+695	i697	La abuela Antolina con Florentino Gutiérrez y Roberto Fernández en la huerta familiar en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+696	i698	Avelina González con sus hijos Florentino y Luis Fernando Gutiérrez subidos en la burra Consorcia en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+697	i699	Familia sentada alrededor de la Cazuela en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+698	i700	Retrato de los hermanos Valeriano y Felisa Gutiérrez en la huerta de la casa familiar en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+699	i701	Retrato de Avelina González  de niña	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+700	i702	Vecinos de fiesta en Lugán	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+701	i703	En la fiesta de Lugán	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+702	i704	Valeriano Gutiérrez vestido de militar en la huerta familiar en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+703	i705	Valeriano Gutiérrez, Manolo “El Zazo” y Saturnino en la fiesta de Barrillos de Curueño	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+704	i706	Manolo “El Zazo”y Valeriano Gutiérrez en Barrio de Nuestra Señora	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+705	i707	De fiesta en la era de Barrio de Nuestra Señora	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+706	i708	Felisa Gutiérrez y Avelina González con la orquesta Trovadores en la fiesta de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+707	i709	Vicente Gutiérrez y Antolina de Cabo con la familia en la huerta de la casa familiar en Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+708	i710	Tino Gutiérrez en Suiza	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+709	i711	En la fiesta del Corpus en la era de Cerezales del Condado	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+710	i712	Juventud en la fiesta de Lugán	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+711	i713	Boda de Antonio Díez en Santa Colomba de Curueño	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+712	i714	La juventud de Cerezales del Condado cuando cantó misa Don Abundio	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González
+713	i715	El tío Gildo con la dulzaina y Marceliano de la Varga tocando el tambor	p44	Yolanda de la Varga González 
+714	i716	Grupo de chicas simulando que están fumando en la calle en Cerezales del Condado	p44	Yolanda de la Varga González 
+715	i717	La orquesta Trovadores en la fiesta del Corpus en las eras de Cerezales del Condado	p44	Yolanda de la Varga González 
+716	i718	Marceliano de la Varga tocando el tambor y Merche tocando el acordeón en Ambasaguas del Curueño	p44	Yolanda de la Varga González 
+717	i719	La orquesta Valdés y Vargas de Cerezales del Condado	p44	Yolanda de la Varga González 
+718	i720	Los hermanos Emilio, Marce y Yolanda de la Varga en Cerezales del Condado	p44	Yolanda de la Varga González 
+719	i721	Marceliano de la Varga y Gelina González el día de su boda en Cerezales de Condado	p44	Yolanda de la Varga González 
+720	i722	Marceliano de la Varga con el carro sacar patatas tirado por bueyes en El Vago, en Cerezales del Condado	p44	Yolanda de la Varga González 
+721	i723	Leovigildo de la Varga con su mujer Margarita García enfrente de su casa en Cerezales del Condado	p44	Yolanda de la Varga González 
+722	i724	Antonio, Angelina y Tomás González con Ricardo Zurdo haciendo un asado de cochinillo al estilo argentino en la huerta familiar en Cerezales del Condado	p44	Yolanda de la Varga González 
+723	i725	Margarita García con su hija Gelina de la Varga frente a la casa familiar en Cerezales del Condado	p44	Yolanda de la Varga González 
+724	i726	Araceli de la Varga sentada cerca de la lumbre en la casa del Tío Gildo en Cerezales del Condado	p44	Yolanda de la Varga González 
+725	i727	Antonia Mirantes en su casa de Cerezales del Condado cuidando a Toño 	p44	Yolanda de la Varga González 
+726	i728	Retrato de estudio del hermano de Gerardo García enviado desde Argentina	p44	Yolanda de la Varga González 
+727	i729	Tino González con las vacas en Las Fuentes en Cerezales del Condado	p44	Yolanda de la Varga González 
+728	i730	Angelina González enfrente de la casa de sus suegros en Cerezales del Condado	p44	Yolanda de la Varga González 
+729	i731	Matando al gocho en casa de Eugenio en Cerezales del Condado	p44	Yolanda de la Varga González 
+730	i732	Grupo de mujeres con un fraile en Cerezales del Condado	p44	Yolanda de la Varga González 
+731	i733	Matando al gocho en casa de Eugenio en Cerezales del Condado II	p44	Yolanda de la Varga González 
+732	i734	Fotografía de carné de Laureano González	p44	Yolanda de la Varga González 
+733	i735	Marceliano y Angelina de la Varga llevando leña a su casa en Cerezales del Condado	p44	Yolanda de la Varga González 
+734	i736	Merendando en Cerezales del Condado	p44	Yolanda de la Varga González 
+735	i737	Chamuscando el cerdo en la casa de la familia González Mirantes en Cerezales del Condado	p44	Yolanda de la Varga González 
+736	i738	Antonia Mirantes asando manzanas en la casa familiar en Cerezales del Condado	p44	Yolanda de la Varga González 
+737	i739	Marceliano de la Varga podando la palera	p44	Yolanda de la Varga González 
+738	i740	Herminio de la Varga y su sobrina Yolanda de la Varga junto a la casa de Leovigildo de la Varga en Cerezales del Condado	p44	Yolanda de la Varga González 
+739	i741	Yolanda de la Varga en Cerezales del  Condado I	p44	Yolanda de la Varga González 
+740	i742	Yolanda de la Varga en la escuela de Cerezales del Condado	p44	Yolanda de la Varga González 
+741	i743	Laureano González en el escaño de su casa en Cerezales del Condado	p44	Yolanda de la Varga González 
+742	i744	Fotografía de carné de Marceliano de la Varga	p44	Yolanda de la Varga González 
+743	i745	Procesión del Corpus en Cerezales del Condado	p44	Yolanda de la Varga González 
+744	i746	Antonio González durante el servicio militar en Melilla	p44	Yolanda de la Varga González 
+745	i747	Antonia Mirantes y Laureano González con su hijo Antonio y su nuera Cuqui en Cerezales del Condado	p44	Yolanda de la Varga González 
+746	i748	Antonio Mirantes y Cuqui con sus sobrinas El Camperín en Cerezales del Condado	p44	Yolanda de la Varga González 
+747	i749	Fotografía de carné de Yolanda de la Varga 	p44	Yolanda de la Varga González 
+748	i750	Matando al gocho en casa de Eugenio en Cerezales del Condado III	p44	Yolanda de la Varga González 
+748	i751	 Fotografía de identificación de Antonio González 	p44	Yolanda de la Varga González 
+750	i752	Yolanda de la Varga en Cerezales del Condado II	p44	Yolanda de la Varga González 
+751	i753	Lupercio sentado en una bicicleta en Cerezales del Condado	p44	Yolanda de la Varga González 
+752	i754	Marceliano de la Varga y Angelina González con su hijo Emilio en Cerezales del Condado	p44	Yolanda de la Varga González 
+753	i755	Procesión de Semana Santa en Cerezales del Condado	p44	Yolanda de la Varga González 
+754	i756	Grupo de chicas en un “prao” de Cerezales del Condado	p44	Yolanda de la Varga González 
+755	i757	Yolanda de la Varga con la perra Chata en la huerta familiar en Cerezales del Condado	p44	Yolanda de la Varga González 
+756	i758	Retrato de unos tíos de Ana Mari González en una huerta	p45	Mª de los Ángeles González 
+757	i759	Las cuatro hermanas González Robles en la escuela de Barrillos de Curueño	p45	Mª de los Ángeles González 
+758	i760	Grupo de amigas en Barrillos de Curueño	p45	Mª de los Ángeles González 
+759	i761	Boda de Ana Mari González, cantamisas de su hermano y primera comunión de una sobrina en Barrillos de Curueño	p45	Mª de los Ángeles González 
+760	i762	Retrato de adoración Robles de madrina de boda	p45	Mª de los Ángeles González 
+761	i763	Ana Mari con su hijo José posando delante de la puerta de su casa en Cerezales del Condado 	p45	Mª de los Ángeles González 
+762	i764	Grupo de personas merendado en el soto de Barrillos del Curueño 	p45	Mª de los Ángeles González 
+763	i765	Ana Mari González y dos amigas posando en la calle en Barrillos de Curueño	p45	Mª de los Ángeles González 
+764	i766	Grupo de invitados junto a Paulina Díez el día de su boda en Barrillos de Curueño	p45	Mª de los Ángeles González 
+765	i767	Fotografía para el libro de familia numerosa de la familia González Robles en Barrillos de Curueño 	p45	Mª de los Ángeles González 
+766	i768	Teófilo Robles junto a otros soldados en Llanos de Alba durante la guerra	p45	Mª de los Ángeles González 
+767	i769	Teófilo Robles de militar en Llanos de Alba durante la guerra	p45	Mª de los Ángeles González 
+768	i770	Teófilo Robles vestido de militar montado en una moto 	p45	Mª de los Ángeles González 
+769	i771	Grupo de personas en el soto de Barrillos de Curueño 	p45	Mª de los Ángeles González 
+770	i772	Familia González Robles en la huerta familiar de Barrillos de Curueño 	p45	Mª de los Ángeles González 
+771	i773	Grupo de chicas con estandartes en la procesión de la fiesta de Barrillos de Curueño 	p45	Mª de los Ángeles González 
+772	i774	 Grupo de chicas llevando en andas a la Virgen de Fátima en una procesión en Barrillos de Curueño	p45	Mª de los Ángeles González 
+773	i775	Ana Mari y Eduardo González con una amiga en la huerta familiar en Barrillos de Curueño II	p45	Mª de los Ángeles González 
+774	i776	Ana Mari y Eduardo González con una amiga en la huerta familiar en Barrillos de Curueño  I	p45	Mª de los Ángeles González 
+775	i777	Tres niños sentados en la pradera	p45	Mª de los Ángeles González 
+776	i778	Benjamin González con su hijo Raúl en la huerta familiar en Cerezales del Condado	p45	Mª de los Ángeles González 
+777	i779	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño I	p45	Mª de los Ángeles González 
+778	i780	Las hermanas González Robles posando en una huerta en Barrillos de Curueño 	p45	Mª de los Ángeles González 
+779	i781	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño II	p45	Mª de los Ángeles González 
+780	i782	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño III	p45	Mª de los Ángeles González 
+781	i783	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño IV	p45	Mª de los Ángeles González 
+782	i784	Raúl González en un triciclo en Cerezales del Condado	p45	Mª de los Ángeles González 
+783	i785	Familia merendando en el Soto de Barrillos de Curueño	p45	Mª de los Ángeles González 
+784	i786	Ana Mari González con dos hermanas y una amiga posando en una huerta de Barrillos de Curueño	p45	Mª de los Ángeles González 
+785	i787	Teófilo Robles de militar con una radio en Llanos de Alba durante la guerra	p45	Mª de los Ángeles González 
+786	i788	Ana Mari González y su hijo José Benjamín González en la cocina de la casa paterna en Barrillos de Curueño	p45	Mª de los Ángeles González 
+787	i789	Ana Mari González y una amiga posando en la calle en Barrillos de Curueño 	p45	Mª de los Ángeles González 
+788	i790	Esperanza Castro con su madre y hermano de visita desde Argentina en Barrillos de Curueño	p45	Mª de los Ángeles González 
+789	i791	Maite González posando delante de un tractor en el corral de la casa familiar de Barrillos de Curueño	p45	Mª de los Ángeles González 
+790	i792	Abel Robles a hombros a la salida de su cantamisas en Barrillos de Curueño 	p45	Mª de los Ángeles González 
+791	i793	Ana Mari González y Paulina Diez sentadas en una pradera en Barrillos de Curueño	p45	Mª de los Ángeles González 
+792	i794	Ana Mari González con tres de sus hijos buscando pulgón en las plantas de lúpulo en Cerezales del Condado	p45	Mª de los Ángeles González 
+793	i795	Familia González Robles recogiendo el lúpulo en Cerezales del Condado	p45	Mª de los Ángeles González 
+794	i796	Músicos de procesión en la fiesta de Barrillos del Curueño 	p45	Mª de los Ángeles González 
+795	i797	Jose Luis González junto al molino de Barrillos de Curueño 	p45	Mª de los Ángeles González 
+796	i798	Niña posando con una muñeca en una huerta en Barrillos del Curueño 	p45	Mª de los Ángeles González 
+797	i799	Eduardo González y su sobrina Mari Carmen en la huerta familiar de Barrillos del Curueño	p45	Mª de los Ángeles González 
+798	i800	Ana Mari con su hijo Jose posando delante de la puerta de su casa en Cerezales del Condado	p45	Mª de los Ángeles González 
+799	i801	Raúl González de militar montado en un caballo	p45	Mª de los Ángeles González 
+800	i802	Maite González cogiendo fruta de un árbol en la huerta familiar en Cerezales del Condado	p45	Mª de los Ángeles González 
+801	i803	Grupo de niños con tebeos en Cerezales del Condado	p45	Mª de los Ángeles González 
+802	i804	Esta no me gusta	p45	Mª de los Ángeles González 
+803	p1	Adelina Díez  Robles	a6	Barrillos de Curueño
+804	p2	Mª Inés López Castro	a6	Barrillos de Curueño
+805	p3	Isabel de la Puente	a6	Barrillos de Curueño
+806	p4	Mª Pilar Guerra Getino	a6	Barrillos de Curueño
+807	p5	Montserrat Robles Castro	a6	Barrillos de Curueño
+808	p6	Rosalina Castro Robles	a6	Barrillos de Curueño
+809	p7	Sabino de Castro Mirantes	a6	Barrillos de Curueño
+810	p8	Meli Llamera Díez	a6	Barrillos de Curueño
+811	p9	Roberto Menendez Trabanco y Pilar Robles García	a6	Barrillos de Curueño
+812	p10	Camino González Díez	a4	Devesa de Curueño
+813	p11	Daniel Robles López	a4	Devesa de Curueño
+814	p12	Inmaculada Fernández Gago	a4	Devesa de Curueño
+815	p13	Ludi Viejo González	a4	Devesa de Curueño
+816	p14	Mª Luisa Fernández Gago	a4	Devesa de Curueño
+817	p15	Nestor Díez Robles	a4	Devesa de Curueño
+818	p16	Sinaita Gago González	a4	Devesa de Curueño
+819	p17	Mercedes Ferreras Mancebo	a3	Barrio de Nuestra Señora
+820	p18	Pablo Castro Robles	a3	Barrio de Nuestra Señora
+821	p19	Oscar González Castro y Pilar Castro Cascón	a3	Barrio de Nuestra Señora
+822	p20	Mª Rosa Martínez Díez	a5	Ambasaguas de Curueño
+823	p21	Mª Jesús González Rodríguez	a5	Ambasaguas de Curueño
+824	p22	Milagros Díez	a5	Ambasaguas de Curueño
+825	p23	Pedro Valladares Escapa e Hilarino Valladares González	a5	Ambasaguas de Curueño
+826	p24	Mª Rubentina Aller Castro	a5	Ambasaguas de Curueño
+827	p25	Tere García González	a5	Ambasaguas de Curueño
+828	p26	Toñi Escapa García	a5	Ambasaguas de Curueño
+829	p27	Aida Robles Prieto	a2	Castro del Condado
+830	p28	Avelina Ferreras Fernández	a2	Castro del Condado
+831	p29	Mª Dolores González López	a2	Castro del Condado
+832	p30	Luz López Cañón	a2	Castro del Condado
+833	p31	Trinidad Rosario Díez Robles	a2	Castro del Condado
+834	p32	Benedicta González García	a1	Cerezales del Condado
+835	p33	Efigenio Domínguez Fernández	a1	Cerezales del Condado
+836	p34	Emérito Robles Muñiz	a1	Cerezales del Condado
+837	p35	Emilio de la Varga González	a1	Cerezales del Condado
+838	p36	Emma Ferreras Robles	a1	Cerezales del Condado
+839	p37	Gaspara González Mirantes	a1	Cerezales del Condado
+840	p38	Jose Luis Alonso Hernández	a1	Cerezales del Condado
+841	p39	María García López	a1	Cerezales del Condado
+842	p40	Pili Sandoval	a1	Cerezales del Condado
+843	p41	Rosa Mary Juárez Fernández	a1	Cerezales del Condado
+844	p42	Emérito Fernández González y Roberto Fernández Gutiérrez	a1	Cerezales del Condado
+845	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González	a1	Cerezales del Condado
+846	p44	Yolanda de la Varga González	a1	Cerezales del Condado
+847	p45	Mª de los Ángeles González	a1	Cerezales del Condado

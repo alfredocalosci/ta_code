@@ -1,0 +1,126 @@
+848	i3	Nieves Diez y Julia junto al gallinero de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+849	i4	Julia y Jesús el día de su boda junto a familiares y amigos	a5	Ambasaguas de Curueño 
+850	i5	Nieves Diez con un grupo de amigos 	a5	Ambasaguas de Curueño 
+851	i6	Retrato de Nati de monja en Vich	a3	Barrio de Nuestra Señora 
+852	i36	Retrato de Basilisa de la Puente	a3	Barrio de Nuestra Señora 
+853	i65	Linos Gómez y Felicidad Getino con sus cuatro hijos en Barrillos de Curueño	a5	Ambasaguas de Curueño 
+854	i83	Antonio Robles con Antonia y su hijo José María en Barcelona	a3	Barrio de Nuestra Señora 
+855	i116	Fiesta en Barrio de Nuestra Señora 	a3	Barrio de Nuestra Señora 
+856	i146	Robustiano Robles (Tano) y Encarna en el soto de Ambasaguas de Curueño	a5	Ambasaguas de Curueño 
+857	i194	Grupo de chicas asistentes a clases de corte y confección a las puertas del bar Honrado en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+858	i194	Grupo de chicas asistentes a clases de corte y confección a las puertas del bar Honrado en Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+859	i194	Grupo de chicas asistentes a clases de corte y confección a las puertas del bar Honrado en Barrio de Nuestra Señora	a2	Castro del Condado 
+860	i198	Grupo de amigas de Devesa de fiesta en el soto de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+861	i201	Marisa Fernández en el puente de Ambasaguas de Curueño	a5	Ambasaguas de Curueño 
+862	i209	Dos franciscanos de misiones en Devesa de Curueño, uno de ellos portando una cruz 	a3	Barrio de Nuestra Señora 
+863	i209	Dos franciscanos de misiones en Devesa de Curueño, uno de ellos portando una cruz 	a5	Ambasaguas de Curueño 
+864	i209	Dos franciscanos de misiones en Devesa de Curueño, uno de ellos portando una cruz 	a1	Cerezales del Condado 
+865	i210	Fiesta en el soto Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+866	i210	Fiesta en el soto Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+867	i213	Fiesta del Corpus en Cerezales del Condado	a1	Cerezales del Condado 
+868	i214	Grupo de chicas en Ambasaguas de Curueño 	a5	Ambasaguas de Curueño 
+869	i222	Retrato de la familia Díez Robles en Devesa de Curueño	a1	Cerezales del Condado 
+870	i222	Retrato de la familia Díez Robles en Devesa de Curueño	a2	Castro del Condado 
+871	i224	Boda de Néstor Díez y Emma Castro en la iglesia del Mercado en León	a6	Barrillos de Curueño 
+872	i225	Gregorio Díez (Goro) y Emma Castro con el ramo de novia en la puerta de la Iglesia del Mercado en León	a2	Castro del Condado 
+873	i234	Felicidad con su hija Amor González en brazos en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+874	i237	Amancio Castro, Cuqui Gago y un amigo en el bar de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+875	i240	Belenita Castro el día de su boda con familiares y amigos en la puerta de la iglesia de Gallegos de Curueño	a3	Barrio de Nuestra Señora
+876	i242	La familia de Juan González y Demetria Ferreras en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+877	i244	Arsenio Ferreras y Vicente en el aserradero de Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+878	i245	Arsenio Ferreras con el camión GMC cargado con rachos en el aserradero de Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+879	i246	Arsenio Ferreras y Regina Mancebo con Anilo Pérez y Pedro González  junto al camión Pegaso cargado con rachos en el aserradero de Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+880	i249	Retrato de Pablo Castro en el bar familiar de Barrio de Nuestra Señora	a5	Ambasaguas de Curueño 
+881	i262	Retrato de estudio de Fidel Cascón en León	a6	Barrillos de Curueño 
+882	i263	Leoncio Escapa,  familiares y amigos el día de su boda	a5	Ambasaguas de Curueño 
+883	i265	Retrato de estudio de Emilio Mancebo de militar en León	a5	Ambasaguas de Curueño 
+884	i269	Tres niños sentados en un coche en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+885	i270	Primera comunio_n de la hermana de Mª Rosa Martínez (Nena) en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+886	i272	Delfina y su hija preparando la comida en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+887	i274	El padre de Mª Rosa Martínez (Nena) junto a otros jóvenes junto al río Curueño.	a3	Barrio de Nuestra Señora
+888	i276	Grupo de mujeres aprendices de costura en Ambasaguas de Curuen_o	a1	Cerezales del Condado 
+889	i276	Grupo de mujeres aprendices de costura en Ambasaguas de Curuen_o	a3	Barrio de Nuestra Señora
+890	i277	Comida en casa de la abuela de Mª Rosa Martínez (Nena) en la fiesta en Barrio de Nuestra Sen_ora	a3	Barrio de Nuestra Señora
+891	i278	Cuatro niñas vestidas de trajes regionales	a1	Cerezales del Condado 
+892	i285	El padre y la tía de Mª Rosa Martínez (Nena) en la huerta familiar de Barrio de Nuestra Señora 	a3	Barrio de Nuestra Señora 
+893	i287	Comida en un cantamisas en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+894	i288	Grupo de amigos en una huerta de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+895	i289	Guardando las patatas en Barrio de Nuestra Sen_ora	a3	Barrio de Nuestra Señora
+896	i292	Reunión de María “La Arroya” con amistades de elevada clase social en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+897	i296	Retrato del tío Argimiro Valladares y Veridiana González con sus hijos Baltasar, Juliana e Hilarino delante de la casa de Jesusa en Ambasaguas de Curueño	a1	Cerezales del Condado 
+898	i296	Retrato del tío Argimiro Valladares y Veridiana González con sus hijos Baltasar, Juliana e Hilarino delante de la casa de Jesusa en Ambasaguas de Curueño	a3	Barrio de Nuestra Señora
+899	i300	Sar Valladares e Isidro en Barrillos de Curueño	a6	Barrillos de Curueño 
+900	i304	El abuelo Eugenio González montando en burra	a1	Cerezales del Condado 
+901	i306	Manuel Martínez y su amigo José Luis limpiando el cereal en la era en Cerezales del Condado	a1	Cerezales del Condado 
+902	i344	Carlos Escapa, Plácido Escapa, Susi y Toñi García en el río en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora 
+903	i347	Besamanos en el cantamisas de Miguel en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+904	i353	Retrato de estudio de Eugenio Robles y Quiteria	a1	Cerezales del Condado 
+905	i388	Amador haciendo el adobo en la matanza en Ambasaguas de Curueño	a1	Cerezales del Condado 
+906	i388	Amador haciendo el adobo en la matanza en Ambasaguas de Curueño	a7	Santa María del Condado 
+907	i397	Baile en la fiesta de San Miguel en Castro del Condado	a4	Devesa de Curueño 
+908	i408	Chicas posando en una moto durante las fiestas de Ambasaguas de Curueño	a5	Ambasaguas de Curueño 
+909	i427	Lina Díez y Juventino Castro en la fiesta de Barrillos del Curueño	a6	Barrillos de Curueño 
+910	i431	Mujeres con niños en las fiestas de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+911	i438	Trillando en las eras de Barrio del Nuestra Señora	a3	Barrio de Nuestra Señora 
+912	i442	Olegario Prieto con unas amigas en la Fonda Honrado en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+913	i442	Olegario Prieto con unas amigas en la Fonda Honrado en Barrio de Nuestra Señora	a6	Barrillos de Curueño 
+914	i447	Mozas y niños de Castro del Condado en Barrillos de Curueño	a6	Barrillos de Curueño 
+915	i457	José María de la Puente, Javier Robles y José María en Navidad en la sala Las Vegas de Barrio de Nuestra Señora	a4	Devesa de Curueño 
+916	i457	José María de la Puente, Javier Robles y José María en Navidad en la sala Las Vegas de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+917	i472	La mocedad de Castro del Condado	a3	Barrio de Nuestra Señora
+918	i478	Nicasio Honrado junto con dos compañeros durante el servicio militar en África	a3	Barrio de Nuestra Señora
+919	i478	Nicasio Honrado junto con dos compañeros durante el servicio militar en África	a6	Barrillos de Curueño 
+920	i483	Roberto Honrado en la fonda familiar en Ambasaguas de Curueño	a3	Barrio de Nuestra Señora
+921	i508	Efigenio Domínguez de pastor en Montenmedio	a8	Lugán
+922	i509	Efigenio Domínguez con el rebaño en el monte de Lugán 	a8	Lugán
+923	i583	El maestro Don Marcos con algunos vecinos	a4	Devesa de Curueño 
+924	i611	Grupo de cazadores de Cerezales del Condado, Barrio de Nuestra Señora y Ambasaguas de Curueño	a3	Barrio de Nuestra Señora
+925	i611	Grupo de cazadores de Cerezales del Condado, Barrio de Nuestra Señora y Ambasaguas de Curueño	a5	Ambasaguas de Curueño 
+926	i613	Tomás González bailando en la fiesta del Corpus en Cerezales del Condado	a5	Ambasaguas de Curueño 
+927	i614	Maria García y familia saliendo un domingo por la tarde de Cerezales del Condado hacia León	a5	Ambasaguas de Curueño 
+928	i615	Dos mozos en bicicleta en el puente que une Ambasaguas de Curueño y Barrio de Nuestra Señora 	a3	Barrio de Nuestra Señora
+929	i618	Melino el tamborilero y Darío el dulzainero tocando delante de la iglesia	a4	Devesa de Curueño 
+930	i619	El marido y el hijo de Pilar Sandoval pescando en el soto de Ambasaguas de Curueño	a3	Barrio de Nuestra Señora
+931	i620	Pilar Sandoval junto a su marido y su hijo mayor en el soto de Ambasaguas	a5	Ambasaguas de Curueño 
+932	i621	El hijo mayor de Pili Sandoval en el soto de Ambasaguas de Curueño con una bandera para aquedar las vacas.	a5	Ambasaguas de Curueño 
+933	i635	Los hermanos Eleuterio, Ángel, Teófilo y Juan Fernández en León	a6	Barrillos de Curueño 
+934	i643	Fotografía de estudio de la familia Fernández Castro en Madrid	a6	Barrillos de Curueño 
+935	i678	Díez Valladares posando de militar	a5	Ambasaguas de Curueño 
+936	i705	Valeriano Gutiérrez, Manolo “El Zazo” y Saturnino en la fiesta de Barrillos de Curueño	a6	Barrillos de Curueño 
+937	i705	Valeriano Gutiérrez, Manolo “El Zazo” y Saturnino en la fiesta de Barrillos de Curueño	a3	Barrio de Nuestra Señora
+938	i706	Manolo “El Zazo”y Valeriano Gutiérrez en Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+939	i707	De fiesta en la era de Barrio de Nuestra Señora	a3	Barrio de Nuestra Señora
+940	i713	Boda de Antonio Díez en Santa Colomba de Curueño	a5	Ambasaguas de Curueño 
+941	i732	Grupo de mujeres con un fraile en Cerezales del Condado	a5	Ambasaguas de Curueño 
+942	i759	Las cuatro hermanas González Robles en la escuela de Barrillos de Curueño	a6	Barrillos de Curueño 
+943	i760	Grupo de amigas en Barrillos de Curueño	a6	Barrillos de Curueño 
+944	i761	Boda de Ana Mari González, cantamisas de su hermano y primera comunión de una sobrina en Barrillos de Curueño	a6	Barrillos de Curueño 
+945	i764	Grupo de personas merendado en el soto de Barrillos del Curueño 	a6	Barrillos de Curueño 
+946	i765	Ana Mari González y dos amigas posando en la calle en Barrillos de Curueño	a6	Barrillos de Curueño 
+947	i766	Grupo de invitados junto a Paulina Díez el día de su boda en Barrillos de Curueño	a6	Barrillos de Curueño 
+948	i767	Fotografía para el libro de familia numerosa de la familia González Robles en Barrillos de Curueño 	a6	Barrillos de Curueño 
+949	i770	Teófilo Robles vestido de militar montado en una moto 	a6	Barrillos de Curueño 
+950	i771	Grupo de personas en el soto de Barrillos de Curueño 	a6	Barrillos de Curueño 
+951	i772	Familia González Robles en la huerta familiar de Barrillos de Curueño 	a6	Barrillos de Curueño 
+952	i773	Grupo de chicas con estandartes en la procesión de la fiesta de Barrillos de Curueño 	a6	Barrillos de Curueño 
+953	i774	 Grupo de chicas llevando en andas a la Virgen de Fátima en una procesión en Barrillos de Curueño	a6	Barrillos de Curueño 
+954	i775	Ana Mari y Eduardo González con una amiga en la huerta familiar en Barrillos de Curueño II	a6	Barrillos de Curueño 
+955	i776	Ana Mari y Eduardo González con una amiga en la huerta familiar en Barrillos de Curueño  I	a6	Barrillos de Curueño 
+956	i777	Tres niños sentados en la pradera	a6	Barrillos de Curueño 
+957	i779	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño I	a6	Barrillos de Curueño 
+958	i780	Las hermanas González Robles posando en una huerta en Barrillos de Curueño 	a6	Barrillos de Curueño 
+959	i781	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño II	a6	Barrillos de Curueño 
+960	i782	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño III	a6	Barrillos de Curueño 
+961	i783	Grupo de personas dirigiéndose al cantamisas de un primo en Barrillos de Curueño IV	a6	Barrillos de Curueño 
+962	i785	Familia merendando en el Soto de Barrillos de Curueño	a6	Barrillos de Curueño 
+963	i786	Ana Mari González con dos hermanas y una amiga posando en una huerta de Barrillos de Curueño	a6	Barrillos de Curueño 
+964	i788	Ana Mari González y su hijo José Benjamín González en la cocina de la casa paterna en Barrillos de Curueño	a6	Barrillos de Curueño 
+965	i789	Ana Mari González y una amiga posando en la calle en Barrillos de Curueño 	a6	Barrillos de Curueño 
+966	i790	Esperanza Castro con su madre y hermano de visita desde Argentina en Barrillos de Curueño	a6	Barrillos de Curueño 
+967	i791	Maite González posando delante de un tractor en el corral de la casa familiar de Barrillos de Curueño	a6	Barrillos de Curueño 
+968	i792	Abel Robles a hombros a la salida de su cantamisas en Barrillos de Curueño 	a6	Barrillos de Curueño 
+969	i793	Ana Mari González y Paulina Diez sentadas en una pradera en Barrillos de Curueño	a6	Barrillos de Curueño 
+970	i796	Músicos de procesión en la fiesta de Barrillos del Curueño 	a6	Barrillos de Curueño 
+971	i797	Jose Luis González junto al molino de Barrillos de Curueño 	a6	Barrillos de Curueño 
+972	i798	Niña posando con una muñeca en una huerta en Barrillos del Curueño 	a6	Barrillos de Curueño 
+973	i799	Eduardo González y su sobrina Mari Carmen en la huerta familiar de Barrillos del Curueño	a6	Barrillos de Curueño 

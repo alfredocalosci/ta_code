@@ -1,0 +1,45 @@
+803	p1	Adelina Díez  Robles	a6	Barrillos de Curueño
+804	p2	Mª Inés López Castro	a6	Barrillos de Curueño
+805	p3	Isabel de la Puente	a6	Barrillos de Curueño
+806	p4	Mª Pilar Guerra Getino	a6	Barrillos de Curueño
+807	p5	Montserrat Robles Castro	a6	Barrillos de Curueño
+808	p6	Rosalina Castro Robles	a6	Barrillos de Curueño
+809	p7	Sabino de Castro Mirantes	a6	Barrillos de Curueño
+810	p8	Meli Llamera Díez	a6	Barrillos de Curueño
+811	p9	Roberto Menendez Trabanco y Pilar Robles García	a6	Barrillos de Curueño
+812	p10	Camino González Díez	a4	Devesa de Curueño
+813	p11	Daniel Robles López	a4	Devesa de Curueño
+814	p12	Inmaculada Fernández Gago	a4	Devesa de Curueño
+815	p13	Ludi Viejo González	a4	Devesa de Curueño
+816	p14	Mª Luisa Fernández Gago	a4	Devesa de Curueño
+817	p15	Nestor Díez Robles	a4	Devesa de Curueño
+818	p16	Sinaita Gago González	a4	Devesa de Curueño
+819	p17	Mercedes Ferreras Mancebo	a3	Barrio de Nuestra Señora
+820	p18	Pablo Castro Robles	a3	Barrio de Nuestra Señora
+821	p19	Oscar González Castro y Pilar Castro Cascón	a3	Barrio de Nuestra Señora
+822	p20	Mª Rosa Martínez Díez	a5	Ambasaguas de Curueño
+823	p21	Mª Jesús González Rodríguez	a5	Ambasaguas de Curueño
+824	p22	Milagros Díez	a5	Ambasaguas de Curueño
+825	p23	Pedro Valladares Escapa e Hilarino Valladares González	a5	Ambasaguas de Curueño
+826	p24	Mª Rubentina Aller Castro	a5	Ambasaguas de Curueño
+827	p25	Tere García González	a5	Ambasaguas de Curueño
+828	p26	Toñi Escapa García	a5	Ambasaguas de Curueño
+829	p27	Aida Robles Prieto	a2	Castro del Condado
+830	p28	Avelina Ferreras Fernández	a2	Castro del Condado
+831	p29	Mª Dolores González López	a2	Castro del Condado
+832	p30	Luz López Cañón	a2	Castro del Condado
+833	p31	Trinidad Rosario Díez Robles	a2	Castro del Condado
+834	p32	Benedicta González García	a1	Cerezales del Condado
+835	p33	Efigenio Domínguez Fernández	a1	Cerezales del Condado
+836	p34	Emérito Robles Muñiz	a1	Cerezales del Condado
+837	p35	Emilio de la Varga González	a1	Cerezales del Condado
+838	p36	Emma Ferreras Robles	a1	Cerezales del Condado
+839	p37	Gaspara González Mirantes	a1	Cerezales del Condado
+840	p38	Jose Luis Alonso Hernández	a1	Cerezales del Condado
+841	p39	María García López	a1	Cerezales del Condado
+842	p40	Pili Sandoval	a1	Cerezales del Condado
+843	p41	Rosa Mary Juárez Fernández	a1	Cerezales del Condado
+844	p42	Emérito Fernández González y Roberto Fernández Gutiérrez	a1	Cerezales del Condado
+845	p43	Valeriano Gutiérrez de Cabo y Luis Fernando Gutiérrez González	a1	Cerezales del Condado
+846	p44	Yolanda de la Varga González	a1	Cerezales del Condado
+847	p45	Mª de los Ángeles González	a1	Cerezales del Condado
